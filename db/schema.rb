@@ -10,19 +10,27 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_08_04_193144) do
+ActiveRecord::Schema.define(version: 2020_08_04_201758) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "episodes", force: :cascade do |t|
     t.bigint "show_id", null: false
+    t.bigint "program_year_id", null: false
     t.string "name", null: false
     t.integer "episode_num", null: false
     t.integer "season", null: false
     t.date "original_air_date", null: false
     t.text "synopsis", null: false
+    t.index ["program_year_id"], name: "index_episodes_on_program_year_id"
     t.index ["show_id"], name: "index_episodes_on_show_id"
+  end
+
+  create_table "program_years", force: :cascade do |t|
+    t.string "name", null: false
+    t.date "start_date", null: false
+    t.date "end_date", null: false
   end
 
   create_table "shows", force: :cascade do |t|

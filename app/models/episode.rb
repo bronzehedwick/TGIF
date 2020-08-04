@@ -7,4 +7,5 @@ class Episode < ApplicationRecord
   validates :synopsis, presence: true
 
   belongs_to :show
+  belongs_to :program_year
 end
