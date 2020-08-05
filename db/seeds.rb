@@ -1,5 +1,4 @@
 require 'csv'
-require 'pry'
 
 # shows
 full_house = Show.create(name: "Full House", description: "After the death of his wife Pam, sports anchor Danny Tanner recruits his brother-in-law Jesse, a rock musician, and his best friend since childhood, Joey, who works as a stand-up comedian, to help raise his three young daughters. Over time, the three men, as well as the children, bond and become closer to one another.", image_url: "placeholder")
