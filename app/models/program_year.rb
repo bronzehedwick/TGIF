@@ -4,4 +4,5 @@ class ProgramYear < ApplicationRecord
   validates :end_date, presence: true
   
   has_many :episodes
+  has_many :weeks
 end

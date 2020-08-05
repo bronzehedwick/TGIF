@@ -1,3 +1,5 @@
+require 'csv'
+
 # shows
 full_house = Show.create(name: "Full House", description: "After the death of his wife Pam, sports anchor Danny Tanner recruits his brother-in-law Jesse, a rock musician, and his best friend since childhood, Joey, who works as a stand-up comedian, to help raise his three young daughters. Over time, the three men, as well as the children, bond and become closer to one another.", image_url: "placeholder")
 family_matters = Show.create(name: "Family Matters", description: "What matters most? Family, of course! Over its nine hit seasons, Family Matters brings us a hilarious slice of middle-class Americana -- along with one of TV's wackiest characters, nerdy genius Steve Urkel. The extended Winslow family redefines the word 'togetherness' as their home splits at the seams with chaos, confusion and laughter.", image_url: "placeholder")
@@ -41,3 +43,14 @@ bmwtest1 = Episode.create(show: boy_meets_world, name: "Boy Meets World Test 1",
 hwmctest1 = Episode.create(show: hangin_with_mr_cooper, name: "Hangin' with Mr. Cooper Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
 sstest1 = Episode.create(show: sister_sister, name: "Sister Sister Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
 oootest1 = Episode.create(show: on_our_own, name: "On Our Own Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
+
+#weeks
+weeks_csv_text = File.read(Rails.root.join('db', 'TGIF Weeks.csv'))
+weeks_text = CSV.parse(weeks_csv_text, :headers => true, :encoding => 'ISO-8859-1')
+weeks_text.each do |row|
+  w = Week.new
+  w.program_year_id = row['program_year_id']
+  w.week_num = row['week_num']
+  w.friday_date = row['friday_date']
+  w.save
+end
