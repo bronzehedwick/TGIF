@@ -57,6 +57,10 @@ ActiveRecord::Schema.define(version: 2020_08_05_172524) do
   create_table "weeks", force: :cascade do |t|
     t.integer "week_num", null: false
     t.date "friday_date", null: false
+    t.string "slot_8pm", null: false
+    t.string "slot_830pm", null: false
+    t.string "slot_9pm", null: false
+    t.string "slot_930pm", null: false
     t.bigint "program_year_id", null: false
     t.index ["program_year_id"], name: "index_weeks_on_program_year_id"
   end

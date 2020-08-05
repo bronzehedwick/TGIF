@@ -52,5 +52,37 @@ weeks_text.each do |row|
   w.program_year_id = row['program_year_id']
   w.week_num = row['week_num']
   w.friday_date = row['friday_date']
+  w.slot_8pm = row['slot_8pm']
+  w.slot_830pm = row['slot_830pm']
+  w.slot_9pm = row['slot_9pm']
+  w.slot_930pm = row['slot_930pm']
   w.save
 end
+
+# #program blocks
+# # 1989
+# ProgramBlock.create(program_year: year1989, season: "Fall", slot_8pm: full_house, slot_830pm: family_matters, slot_9pm: perfect_strangers, slot_930pm: just_ten)
+# ProgramBlock.create(program_year: year1989, season: "Winter", slot_8pm: full_house, slot_830pm: family_matters, slot_9pm: perfect_strangers, slot_930pm: just_ten)
+# ProgramBlock.create(program_year: year1989, season: "Spring", slot_8pm: full_house, slot_830pm: family_matters, slot_9pm: perfect_strangers, slot_930pm: just_ten)
+# # 1990
+# ProgramBlock.create(program_year: year1990, season: "Fall", slot_8pm: full_house, slot_830pm: family_matters, slot_9pm: perfect_strangers, slot_930pm: going_places)
+# ProgramBlock.create(program_year: year1990, season: "Winter", slot_8pm: full_house, slot_830pm: family_matters, slot_9pm: perfect_strangers, slot_930pm: going_places)
+# ProgramBlock.create(program_year: year1990, season: "Spring", slot_8pm: full_house, slot_830pm: dinosaurs, slot_9pm: family_matters, slot_930pm: perfect_strangers)
+# # 1991
+# ProgramBlock.create(program_year: year1991, season: "Fall", slot_8pm: family_matters, slot_830pm: step_by_step, slot_9pm: perfect_strangers, slot_930pm: baby_talk)
+# ProgramBlock.create(program_year: year1991, season: "Winter", slot_8pm: family_matters, slot_830pm: step_by_step, slot_9pm: baby_talk, slot_930pm: billy)
+# ProgramBlock.create(program_year: year1991, season: "Spring", slot_8pm: family_matters, slot_830pm: step_by_step, slot_9pm: dinosaurs, slot_930pm: baby_talk)
+# # 1992
+# ProgramBlock.create(program_year: year1992, season: "Fall", slot_8pm: family_matters, slot_830pm: step_by_step, slot_9pm: dinosaurs, slot_930pm: camp_wilder)
+# ProgramBlock.create(program_year: year1992, season: "Winter", slot_8pm: family_matters, slot_830pm: step_by_step, slot_9pm: dinosaurs, slot_930pm: camp_wilder)
+# ProgramBlock.create(program_year: year1992, season: "Spring", slot_8pm: family_matters, slot_830pm: step_by_step, slot_9pm: getting_by, slot_930pm:  where_i_live)
+# # 1993
+# ProgramBlock.create(program_year: year1993, season: "Fall", slot_8pm: family_matters, slot_830pm: boy_meets_world, slot_9pm: step_by_step, slot_930pm: hangin_with_mr_cooper)
+# ProgramBlock.create(program_year: year1993, season: "Winter", slot_8pm: family_matters, slot_830pm: boy_meets_world, slot_9pm: step_by_step, slot_930pm: hangin_with_mr_cooper)
+# ProgramBlock.create(program_year: year1993, season: "Spring", slot_8pm: family_matters, slot_830pm: boy_meets_world, slot_9pm: step_by_step, slot_930pm: sister_sister)
+# # 1994
+# ProgramBlock.create(program_year: year1994, season: "Fall", slot_8pm: family_matters, slot_830pm: boy_meets_world, slot_9pm: step_by_step, slot_930pm: hangin_with_mr_cooper)
+# ProgramBlock.create(program_year: year1994, season: "Winter", slot_8pm: family_matters, slot_830pm: boy_meets_world, slot_9pm: step_by_step, slot_930pm: hangin_with_mr_cooper)
+# ProgramBlock.create(program_year: year1994, season: "Spring", slot_8pm: family_matters, slot_830pm: on_our_own, slot_9pm: step_by_step, slot_930pm: hangin_with_mr_cooper)
+
+
