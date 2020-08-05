@@ -1,4 +1,5 @@
 require 'csv'
+require 'pry'
 
 # shows
 full_house = Show.create(name: "Full House", description: "After the death of his wife Pam, sports anchor Danny Tanner recruits his brother-in-law Jesse, a rock musician, and his best friend since childhood, Joey, who works as a stand-up comedian, to help raise his three young daughters. Over time, the three men, as well as the children, bond and become closer to one another.", image_url: "placeholder")
@@ -19,30 +20,12 @@ sister_sister = Show.create(name: "Sister, Sister", description: "Sister, Sister
 on_our_own = Show.create(name: "On Our Own", description: "When the seven Jerrico siblings are left orphaned by a tragic accident, eldest brother Josh takes charge, determined that the family won't be split up and put into foster care.", image_url: "placeholder")
 
 #program years
-year1989 = ProgramYear.create(name: 'Fall 1989 - Spring 1990', start_date: '1989-09-22', end_date: '1990-05-04')
-year1990 = ProgramYear.create(name: 'Fall 1990 - Spring 1991', start_date: '1990-09-21', end_date: '1991-05-03')
-year1991 = ProgramYear.create(name: 'Fall 1991 - Spring 1992', start_date: '1991-09-20', end_date: '1992-05-08')
-year1992 = ProgramYear.create(name: 'Fall 1992 - Spring 1993', start_date: '1992-09-18', end_date: '1993-05-21')
-year1993 = ProgramYear.create(name: 'Fall 1993 - Spring 1994', start_date: '1993-09-24', end_date: '1994-05-20')
-year1994 = ProgramYear.create(name: 'Fall 1994 - Spring 1995', start_date: '1994-09-23', end_date: '1995-05-19')
-
-# test data for episodes
-fhtest1 = Episode.create(show: full_house, name: "Full House Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-fmtest1 = Episode.create(show: family_matters, name: "Family Matters Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-pstest1 = Episode.create(show: perfect_strangers, name: "Perfect Strangers Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-j10test1 = Episode.create(show: just_ten, name: "Just the Ten of Us Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-gptest1 = Episode.create(show: going_places, name: "Going Places Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-sbstest1 = Episode.create(show: step_by_step, name: "Step By Step Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-bttest1 = Episode.create(show: baby_talk, name: "Baby Talk Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-dinotest1 = Episode.create(show: dinosaurs, name: "Dinosaurs Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-billytest1 = Episode.create(show: billy, name: "Billy Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-gbtest1 = Episode.create(show: getting_by, name: "Getting By Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-wiltest1 = Episode.create(show: where_i_live, name: "Where I Live Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-cwtest1 = Episode.create(show: camp_wilder, name: "Camp Wilder Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-bmwtest1 = Episode.create(show: boy_meets_world, name: "Boy Meets World Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-hwmctest1 = Episode.create(show: hangin_with_mr_cooper, name: "Hangin' with Mr. Cooper Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-sstest1 = Episode.create(show: sister_sister, name: "Sister Sister Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
-oootest1 = Episode.create(show: on_our_own, name: "On Our Own Test 1", episode_num: 1, season: 1, original_air_date: '1987-09-18', synopsis: "Test synopsis", program_year: year1989)
+ProgramYear.create(name: 'Fall 1989 - Spring 1990', start_date: '1989-09-22', end_date: '1990-05-04')
+ProgramYear.create(name: 'Fall 1990 - Spring 1991', start_date: '1990-09-21', end_date: '1991-05-03')
+ProgramYear.create(name: 'Fall 1991 - Spring 1992', start_date: '1991-09-20', end_date: '1992-05-08')
+ProgramYear.create(name: 'Fall 1992 - Spring 1993', start_date: '1992-09-18', end_date: '1993-05-21')
+ProgramYear.create(name: 'Fall 1993 - Spring 1994', start_date: '1993-09-24', end_date: '1994-05-20')
+ProgramYear.create(name: 'Fall 1994 - Spring 1995', start_date: '1994-09-23', end_date: '1995-05-19')
 
 #weeks
 weeks_csv_text = File.read(Rails.root.join('db', 'TGIF Weeks.csv'))
@@ -59,30 +42,19 @@ weeks_text.each do |row|
   w.save
 end
 
-# #program blocks
-# # 1989
-# ProgramBlock.create(program_year: year1989, season: "Fall", slot_8pm: full_house, slot_830pm: family_matters, slot_9pm: perfect_strangers, slot_930pm: just_ten)
-# ProgramBlock.create(program_year: year1989, season: "Winter", slot_8pm: full_house, slot_830pm: family_matters, slot_9pm: perfect_strangers, slot_930pm: just_ten)
-# ProgramBlock.create(program_year: year1989, season: "Spring", slot_8pm: full_house, slot_830pm: family_matters, slot_9pm: perfect_strangers, slot_930pm: just_ten)
-# # 1990
-# ProgramBlock.create(program_year: year1990, season: "Fall", slot_8pm: full_house, slot_830pm: family_matters, slot_9pm: perfect_strangers, slot_930pm: going_places)
-# ProgramBlock.create(program_year: year1990, season: "Winter", slot_8pm: full_house, slot_830pm: family_matters, slot_9pm: perfect_strangers, slot_930pm: going_places)
-# ProgramBlock.create(program_year: year1990, season: "Spring", slot_8pm: full_house, slot_830pm: dinosaurs, slot_9pm: family_matters, slot_930pm: perfect_strangers)
-# # 1991
-# ProgramBlock.create(program_year: year1991, season: "Fall", slot_8pm: family_matters, slot_830pm: step_by_step, slot_9pm: perfect_strangers, slot_930pm: baby_talk)
-# ProgramBlock.create(program_year: year1991, season: "Winter", slot_8pm: family_matters, slot_830pm: step_by_step, slot_9pm: baby_talk, slot_930pm: billy)
-# ProgramBlock.create(program_year: year1991, season: "Spring", slot_8pm: family_matters, slot_830pm: step_by_step, slot_9pm: dinosaurs, slot_930pm: baby_talk)
-# # 1992
-# ProgramBlock.create(program_year: year1992, season: "Fall", slot_8pm: family_matters, slot_830pm: step_by_step, slot_9pm: dinosaurs, slot_930pm: camp_wilder)
-# ProgramBlock.create(program_year: year1992, season: "Winter", slot_8pm: family_matters, slot_830pm: step_by_step, slot_9pm: dinosaurs, slot_930pm: camp_wilder)
-# ProgramBlock.create(program_year: year1992, season: "Spring", slot_8pm: family_matters, slot_830pm: step_by_step, slot_9pm: getting_by, slot_930pm:  where_i_live)
-# # 1993
-# ProgramBlock.create(program_year: year1993, season: "Fall", slot_8pm: family_matters, slot_830pm: boy_meets_world, slot_9pm: step_by_step, slot_930pm: hangin_with_mr_cooper)
-# ProgramBlock.create(program_year: year1993, season: "Winter", slot_8pm: family_matters, slot_830pm: boy_meets_world, slot_9pm: step_by_step, slot_930pm: hangin_with_mr_cooper)
-# ProgramBlock.create(program_year: year1993, season: "Spring", slot_8pm: family_matters, slot_830pm: boy_meets_world, slot_9pm: step_by_step, slot_930pm: sister_sister)
-# # 1994
-# ProgramBlock.create(program_year: year1994, season: "Fall", slot_8pm: family_matters, slot_830pm: boy_meets_world, slot_9pm: step_by_step, slot_930pm: hangin_with_mr_cooper)
-# ProgramBlock.create(program_year: year1994, season: "Winter", slot_8pm: family_matters, slot_830pm: boy_meets_world, slot_9pm: step_by_step, slot_930pm: hangin_with_mr_cooper)
-# ProgramBlock.create(program_year: year1994, season: "Spring", slot_8pm: family_matters, slot_830pm: on_our_own, slot_9pm: step_by_step, slot_930pm: hangin_with_mr_cooper)
+#episodes
+episodes_csv_text = File.read(Rails.root.join('db', 'TGIF Episodes.csv'))
+episodes_text = CSV.parse(episodes_csv_text, :headers => true, :encoding => 'ISO-8859-1')
+episodes_text.each do |row|
+  e = Episode.new
+  e.show_id = row['show_id']
+  e.season = row['season']
+  e.episode_num = row['episode_num']
+  e.name = row['name']
+  e.original_air_date = row['original_air_date']
+  e.synopsis = row['synopsis']
+  e.save
+end
+
 
 

@@ -2,7 +2,6 @@ class CreateEpisodes < ActiveRecord::Migration[5.2]
   def change
     create_table :episodes do |t|
       t.belongs_to :show, null: false
-      t.belongs_to :program_year, null: false
 
       t.string :name, null: false
       t.integer :episode_num, null: false

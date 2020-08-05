@@ -17,13 +17,11 @@ ActiveRecord::Schema.define(version: 2020_08_05_172524) do
 
   create_table "episodes", force: :cascade do |t|
     t.bigint "show_id", null: false
-    t.bigint "program_year_id", null: false
     t.string "name", null: false
     t.integer "episode_num", null: false
     t.integer "season", null: false
     t.date "original_air_date", null: false
     t.text "synopsis", null: false
-    t.index ["program_year_id"], name: "index_episodes_on_program_year_id"
     t.index ["show_id"], name: "index_episodes_on_show_id"
   end
 
