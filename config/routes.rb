@@ -8,6 +8,7 @@ Rails.application.routes.draw do
       resources :shows, only: [:index, :show]
       resources :episodes, only: [:index, :show]
       resources :weeks, only: [:index, :show]
+      resources :program_years, only: [:index, :show, :create, :new]
     end 
   end
 end
