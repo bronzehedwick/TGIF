@@ -8,24 +8,24 @@ const MainIndex = (props) => {
   
   const [getYear, setYear] = useState("None");
 
-  useEffect(() => {
-    fetch("/api/v1/episodes")
-      .then((response) => {
-        if (response.ok) {
-          return response;
-        } else {
-          let errorMessage = `${response.status} (${response.statusText})`,
-            error = new Error(errorMessage);
-          throw error;
-        }
-      })
-      .then((response) => response.json())
-      .then((body) => {
-        let episodeList = body;
-        setEpisodes(episodeList.episodeData);
-      })
-      .catch((error) => console.error(`Error in fetch: ${error.message}`));
-  }, []);
+  // useEffect(() => {
+  //   fetch("/api/v1/episodes")
+  //     .then((response) => {
+  //       if (response.ok) {
+  //         return response;
+  //       } else {
+  //         let errorMessage = `${response.status} (${response.statusText})`,
+  //           error = new Error(errorMessage);
+  //         throw error;
+  //       }
+  //     })
+  //     .then((response) => response.json())
+  //     .then((body) => {
+  //       let episodeList = body;
+  //       setEpisodes(episodeList.episodeData);
+  //     })
+  //     .catch((error) => console.error(`Error in fetch: ${error.message}`));
+  // }, []);
 
   function handleYearChange(event) {
     setYear(event.target.value);
@@ -54,17 +54,26 @@ const MainIndex = (props) => {
     })
     .then(response => response.json())
     .then(body => {
-      let weekList = body;
-      setWeeks(weekList.weekData);
+      let data = body;
+      setEpisodes(data.episodeData)
+      setWeeks(data.weekData);
       // debugger
     })
     .catch(error => console.error(`Error in fetch: ${error.message}`))
   };
-  
+
   const selectedWeeks = getWeeks.map((week) => {
+    let index = week.week_num - 1
+    let episodes = []
+    if (getEpisodes != null) 
+      {
+      episodes = getEpisodes[index]
+      }
+    // debugger
     return (
       <ProgramTile
       key={week.id}
+      episodes={episodes}
       week_num={week.week_num}
       friday_date={week.friday_date}
       slot_8pm={week.slot_8pm}

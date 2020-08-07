@@ -46,6 +46,7 @@ episodes_csv_text = File.read(Rails.root.join('db', 'TGIF Episodes.csv'))
 episodes_text = CSV.parse(episodes_csv_text, :headers => true, :encoding => 'ISO-8859-1')
 episodes_text.each do |row|
   e = Episode.new
+  e.show_name = row['show_name']
   e.show_id = row['show_id']
   e.season = row['season']
   e.episode_num = row['episode_num']

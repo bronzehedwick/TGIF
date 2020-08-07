@@ -9,6 +9,11 @@ class Api::V1::ProgramYearsController < ApplicationController
     yearParams = params["_json"]
     selectedYear = ProgramYear.find(yearParams)
     @weeks = selectedYear.weeks
-    render json: { weekData: @weeks }
+    @episodes = []
+    @weeks.each do |week|
+      @episodes << Episode.where(original_air_date: week.friday_date)
+    end
+    # binding.pry
+    render json: { weekData: @weeks, episodeData: @episodes }
   end
 end
