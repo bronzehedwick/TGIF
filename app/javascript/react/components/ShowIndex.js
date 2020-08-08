@@ -21,7 +21,7 @@ const ShowIndex = (props) => {
       .then((body) => {
         let showList = body;
         setShows(showList.showData);
-        debugger
+        // debugger
       })
       .catch((error) => console.error(`Error in fetch: ${error.message}`));
   }, []);
