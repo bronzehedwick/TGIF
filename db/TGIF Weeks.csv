@@ -1,0 +1,207 @@
+program_year_id,week_num,friday_date,slot_8pm,slot_830pm,slot_9pm,slot_930pm
+1,1,1989-09-22,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,2,1989-09-29,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,3,1989-10-06,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,4,1989-10-13,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,5,1989-10-20,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,6,1989-10-27,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,7,1989-11-03,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,8,1989-11-10,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,9,1989-11-17,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,10,1989-11-24,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,11,1989-12-01,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,12,1989-12-08,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,13,1989-12-15,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,14,1989-12-22,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,15,1989-12-29,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,16,1990-01-05,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,17,1990-01-12,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,18,1990-01-19,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,19,1990-01-26,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,20,1990-02-02,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,21,1990-02-09,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,22,1990-02-16,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,23,1990-02-23,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,24,1990-03-02,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,25,1990-03-09,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,26,1990-03-16,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,27,1990-03-23,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,28,1990-03-30,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,29,1990-04-06,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,30,1990-04-13,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,31,1990-04-20,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,32,1990-04-27,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+1,33,1990-05-04,Full House,Family Matters,Perfect Strangers,Just the Ten of Us
+2,1,1990-09-21,Full House,Family Matters,Family Matters,Going Places
+2,2,1990-09-28,Full House,Family Matters,Perfect Strangers,Going Places
+2,3,1990-10-05,Full House,Family Matters,Perfect Strangers,Going Places
+2,4,1990-10-12,Full House,Family Matters,Perfect Strangers,Going Places
+2,5,1990-10-19,Full House,Family Matters,Perfect Strangers,Going Places
+2,6,1990-10-26,Full House,Family Matters,Perfect Strangers,Going Places
+2,7,1990-11-02,Full House,Family Matters,Perfect Strangers,Going Places
+2,8,1990-11-09,Full House,Family Matters,Perfect Strangers,Going Places
+2,9,1990-11-16,Full House,Family Matters,Perfect Strangers,Going Places
+2,10,1990-11-23,Full House,Family Matters,Perfect Strangers,Going Places
+2,11,1990-11-30,Full House,Family Matters,Perfect Strangers,Going Places
+2,12,1990-12-07,Full House,Family Matters,Perfect Strangers,Going Places
+2,13,1990-12-14,Full House,Family Matters,Perfect Strangers,Going Places
+2,14,1990-12-21,Full House,Family Matters,Perfect Strangers,Going Places
+2,15,1990-12-28,Full House,Family Matters,Perfect Strangers,Going Places
+2,16,1991-01-04,Full House,Family Matters,Perfect Strangers,Going Places
+2,17,1991-01-11,Full House,Family Matters,Perfect Strangers,Going Places
+2,18,1991-01-18,Full House,Family Matters,Perfect Strangers,Going Places
+2,19,1991-01-25,Full House,Family Matters,Perfect Strangers,Going Places
+2,20,1991-02-01,Full House,Family Matters,Perfect Strangers,Going Places
+2,21,1991-02-08,Full House,Family Matters,Perfect Strangers,Going Places
+2,22,1991-02-15,Full House,Family Matters,Perfect Strangers,Going Places
+2,23,1991-02-22,Full House,Family Matters,Perfect Strangers,Going Places
+2,24,1991-03-01,Full House,Family Matters,Perfect Strangers,Going Places
+2,25,1991-03-08,Full House,Family Matters,Perfect Strangers,Going Places
+2,26,1991-03-15,Full House,Family Matters,Perfect Strangers,Going Places
+2,27,1991-03-22,Full House,Family Matters,Perfect Strangers,Going Places
+2,28,1991-03-29,Full House,Family Matters,Perfect Strangers,Going Places
+2,29,1991-04-05,Full House,Dinosaurs,Family Matters,Perfect Strangers
+2,30,1991-04-12,Full House,Dinosaurs,Family Matters,Perfect Strangers
+2,31,1991-04-19,Full House,Dinosaurs,Family Matters,Perfect Strangers
+2,32,1991-04-26,Full House,Dinosaurs,Family Matters,Perfect Strangers
+2,33,1991-05-03,Full House,Dinosaurs,Family Matters,Perfect Strangers
+3,1,1991-09-20,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,2,1991-09-27,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,3,1991-10-04,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,4,1991-10-11,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,5,1991-10-18,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,6,1991-10-25,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,7,1991-11-01,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,8,1991-11-08,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,9,1991-11-15,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,10,1991-11-22,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,11,1991-11-29,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,12,1991-12-06,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,13,1991-12-13,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,14,1991-12-20,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,15,1991-12-27,Family Matters,Step By Step,Perfect Strangers,Baby Talk
+3,16,1991-01-03,Family Matters,Step By Step,Baby Talk,Billy
+3,17,1992-01-10,Family Matters,Step By Step,Baby Talk,Billy
+3,18,1992-01-17,Family Matters,Step By Step,Baby Talk,Billy
+3,19,1992-01-24,Family Matters,Step By Step,Baby Talk,Billy
+3,20,1992-01-31,Family Matters,Step By Step,Baby Talk,Billy
+3,21,1992-02-07,Family Matters,Step By Step,Baby Talk,Billy
+3,22,1992-02-14,Family Matters,Step By Step,Baby Talk,Billy
+3,23,1992-02-21,Family Matters,Step By Step,Baby Talk,Billy
+3,24,1992-02-28,Family Matters,Step By Step,Baby Talk,Billy
+3,25,1992-03-06,Family Matters,Step By Step,Baby Talk,Billy
+3,26,1992-03-13,Family Matters,Step By Step,Baby Talk,Billy
+3,27,1992-03-20,Family Matters,Step By Step,Baby Talk,Billy
+3,28,1992-03-27,Family Matters,Step By Step,Baby Talk,Billy
+3,29,1992-04-03,Family Matters,Step By Step,Dinosaurs,Baby Talk
+3,30,1992-04-10,Family Matters,Step By Step,Dinosaurs,Baby Talk
+3,31,1992-04-17,Family Matters,Step By Step,Dinosaurs,Baby Talk
+3,32,1992-04-24,Family Matters,Step By Step,Dinosaurs,Baby Talk
+3,33,1992-05-01,Family Matters,Step By Step,Dinosaurs,Baby Talk
+3,34,1992-05-08,Family Matters,Step By Step,Dinosaurs,Baby Talk
+4,1,1992-09-18,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,2,1992-09-25,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,3,1992-10-02,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,4,1992-10-09,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,5,1992-10-16,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,6,1992-10-23,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,7,1992-10-30,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,8,1992-11-06,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,9,1992-11-13,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,10,1992-11-20,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,11,1992-11-27,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,12,1992-12-04,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,13,1992-12-11,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,14,1992-12-18,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,15,1992-12-25,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,16,1993-01-01,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,17,1993-01-08,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,18,1993-01-15,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,19,1993-01-22,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,20,1993-01-29,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,21,1993-02-05,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,22,1993-02-12,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,23,1993-02-19,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,24,1993-02-26,Family Matters,Step By Step,Dinosaurs,Camp Wilder
+4,25,1993-03-05,Family Matters,Step By Step,Getting By,Where I Live
+4,26,1993-03-12,Family Matters,Step By Step,Getting By,Where I Live
+4,27,1993-03-19,Family Matters,Step By Step,Getting By,Where I Live
+4,28,1993-03-26,Family Matters,Step By Step,Getting By,Where I Live
+4,29,1993-04-02,Family Matters,Step By Step,Getting By,Where I Live
+4,30,1993-04-09,Family Matters,Step By Step,Getting By,Where I Live
+4,31,1993-04-16,Family Matters,Step By Step,Getting By,Where I Live
+4,32,1993-04-23,Family Matters,Step By Step,Getting By,Where I Live
+4,33,1993-04-30,Family Matters,Step By Step,Getting By,Where I Live
+4,34,1993-05-07,Family Matters,Step By Step,Getting By,Where I Live
+4,35,1993-05-14,Family Matters,Step By Step,Getting By,Where I Live
+4,36,1993-05-21,Family Matters,Step By Step,Getting By,Where I Live
+5,1,1993-09-24,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,2,1993-10-01,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,3,1993-10-08,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,4,1993-10-15,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,5,1993-10-22,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,6,1993-10-29,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,7,1993-11-05,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,8,1993-11-12,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,9,1993-11-19,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,10,1993-11-26,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,11,1993-12-03,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,12,1993-12-10,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,13,1993-12-17,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,14,1993-12-24,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,15,1993-12-31,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,16,1994-01-07,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,17,1994-01-14,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,18,1994-01-21,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,19,1994-01-28,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,20,1994-02-04,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,21,1994-02-11,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,22,1994-02-18,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,23,1994-02-25,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,24,1994-03-04,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,25,1994-03-11,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,26,1994-03-18,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,27,1994-03-25,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+5,28,1994-04-01,Family Matters,Boy Meets World,Step By Step,"Sister, Sister"
+5,29,1994-04-08,Family Matters,Boy Meets World,Step By Step,"Sister, Sister"
+5,30,1994-04-15,Family Matters,Boy Meets World,Step By Step,"Sister, Sister"
+5,31,1994-04-22,Family Matters,Boy Meets World,Step By Step,"Sister, Sister"
+5,32,1994-04-29,Family Matters,Boy Meets World,Step By Step,"Sister, Sister"
+5,33,1994-05-06,Family Matters,Boy Meets World,Step By Step,"Sister, Sister"
+5,34,1994-05-13,Family Matters,Boy Meets World,Step By Step,"Sister, Sister"
+5,35,1994-05-20,Family Matters,Boy Meets World,Step By Step,"Sister, Sister"
+6,1,1994-09-23,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,2,1994-09-30,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,3,1994-10-07,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,4,1994-10-14,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,5,1994-10-21,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,6,1994-10-28,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,7,1994-11-04,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,8,1994-11-11,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,9,1994-11-18,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,10,1994-11-25,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,11,1994-12-02,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,12,1994-12-09,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,13,1994-12-16,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,14,1994-12-23,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,15,1994-12-30,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,16,1995-01-06,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,17,1995-01-13,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,18,1995-01-20,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,19,1995-01-27,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,20,1995-02-03,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,21,1995-02-10,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,22,1995-02-17,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,23,1995-02-24,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,24,1995-03-03,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,25,1995-03-10,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,26,1995-03-17,Family Matters,On Our Own,Step By Step,Hangin' with Mr. Cooper
+6,27,1995-03-24,Family Matters,On Our Own,Step By Step,Hangin' with Mr. Cooper
+6,28,1995-03-31,Family Matters,On Our Own,Step By Step,Hangin' with Mr. Cooper
+6,29,1995-04-07,Family Matters,On Our Own,Step By Step,Hangin' with Mr. Cooper
+6,30,1995-04-14,Family Matters,On Our Own,Step By Step,Hangin' with Mr. Cooper
+6,31,1995-04-21,Family Matters,On Our Own,Step By Step,Hangin' with Mr. Cooper
+6,32,1995-04-28,Family Matters,On Our Own,Step By Step,Hangin' with Mr. Cooper
+6,33,1995-05-05,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,34,1995-05-12,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper
+6,35,1995-05-19,Family Matters,Boy Meets World,Step By Step,Hangin' with Mr. Cooper

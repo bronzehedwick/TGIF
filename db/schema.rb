@@ -10,19 +10,26 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_08_04_190033) do
+ActiveRecord::Schema.define(version: 2020_08_05_172524) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "episodes", force: :cascade do |t|
     t.bigint "show_id", null: false
+    t.string "show_name", null: false
     t.string "name", null: false
     t.integer "episode_num", null: false
     t.integer "season", null: false
     t.date "original_air_date", null: false
     t.text "synopsis", null: false
     t.index ["show_id"], name: "index_episodes_on_show_id"
+  end
+
+  create_table "program_years", force: :cascade do |t|
+    t.string "name", null: false
+    t.date "start_date", null: false
+    t.date "end_date", null: false
   end
 
   create_table "shows", force: :cascade do |t|
@@ -36,6 +43,7 @@ ActiveRecord::Schema.define(version: 2020_08_04_190033) do
   create_table "users", force: :cascade do |t|
     t.string "email", default: "", null: false
     t.string "encrypted_password", default: "", null: false
+    t.string "username", null: false
     t.string "reset_password_token"
     t.datetime "reset_password_sent_at"
     t.datetime "remember_created_at"
@@ -43,6 +51,17 @@ ActiveRecord::Schema.define(version: 2020_08_04_190033) do
     t.datetime "updated_at", null: false
     t.index ["email"], name: "index_users_on_email", unique: true
     t.index ["reset_password_token"], name: "index_users_on_reset_password_token", unique: true
+  end
+
+  create_table "weeks", force: :cascade do |t|
+    t.integer "week_num", null: false
+    t.date "friday_date", null: false
+    t.string "slot_8pm", null: false
+    t.string "slot_830pm", null: false
+    t.string "slot_9pm", null: false
+    t.string "slot_930pm", null: false
+    t.bigint "program_year_id", null: false
+    t.index ["program_year_id"], name: "index_weeks_on_program_year_id"
   end
 
 end
