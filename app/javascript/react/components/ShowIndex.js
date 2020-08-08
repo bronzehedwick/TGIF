@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
+import ShowTile from "./ShowTile"
 
 const ShowIndex = (props) => {
 
@@ -20,15 +21,36 @@ const ShowIndex = (props) => {
       .then((body) => {
         let showList = body;
         setShows(showList.showData);
-        // debugger
+        debugger
       })
       .catch((error) => console.error(`Error in fetch: ${error.message}`));
   }, []);
 
+  const showList = getShows.map((show) => {
+    // debugger
+    return (
+      <ShowTile
+      key={show.id}
+      id={show.id}
+      name={show.name}
+      image_url={show.image_url}
+      description={show.description}
+      />
+    );
+  });
 
-return (
-  <p>Hello from Show Index</p>
-)
+  return (
+    <div>
+      <p>Hello from Show Index</p>
+      <div className="main-border-pink">
+        <div className="grid-container">
+          <div className="grid-x grid-margin-x small-up-2 medium-up-3">
+            {showList}
+          </div>
+        </div>
+      </div>
+    </div>
+  )
 
 }
 
