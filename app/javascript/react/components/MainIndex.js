@@ -8,32 +8,12 @@ const MainIndex = (props) => {
   
   const [getYear, setYear] = useState("None");
 
-  // useEffect(() => {
-  //   fetch("/api/v1/episodes")
-  //     .then((response) => {
-  //       if (response.ok) {
-  //         return response;
-  //       } else {
-  //         let errorMessage = `${response.status} (${response.statusText})`,
-  //           error = new Error(errorMessage);
-  //         throw error;
-  //       }
-  //     })
-  //     .then((response) => response.json())
-  //     .then((body) => {
-  //       let episodeList = body;
-  //       setEpisodes(episodeList.episodeData);
-  //     })
-  //     .catch((error) => console.error(`Error in fetch: ${error.message}`));
-  // }, []);
-
   function handleYearChange(event) {
     setYear(event.target.value);
   }
   
   const handleSubmit = () => {
     event.preventDefault();
-    // console.log("You pressed the submit button")
     fetch(`/api/v1/program_years`, {
       method: "POST",
       credentials: "same-origin",
@@ -57,7 +37,6 @@ const MainIndex = (props) => {
       let data = body;
       setEpisodes(data.episodeData)
       setWeeks(data.weekData);
-      // debugger
     })
     .catch(error => console.error(`Error in fetch: ${error.message}`))
   };
@@ -69,7 +48,6 @@ const MainIndex = (props) => {
       {
       episodes = getEpisodes[index]
       }
-    // debugger
     return (
       <ProgramTile
       key={week.id}

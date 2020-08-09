@@ -21,17 +21,15 @@ const ShowIndex = (props) => {
       .then((body) => {
         let showList = body;
         setShows(showList.showData);
-        // debugger
       })
       .catch((error) => console.error(`Error in fetch: ${error.message}`));
   }, []);
 
   const showList = getShows.map((show) => {
-    // debugger
     return (
       <ShowTile
       key={show.id}
-      id={show.id}
+      show_id={show.id}
       name={show.name}
       image_url={show.image_url}
       description={show.description}
@@ -44,9 +42,9 @@ const ShowIndex = (props) => {
       <p>Hello from Show Index</p>
       <div className="main-border-pink">
         <div className="grid-container">
-          <div className="grid-x grid-margin-x small-up-2 medium-up-3">
+          {/* <div className="grid-x grid-margin-x small-up-12 medium-up-4"> */}
             {showList}
-          </div>
+          {/* </div> */}
         </div>
       </div>
     </div>
