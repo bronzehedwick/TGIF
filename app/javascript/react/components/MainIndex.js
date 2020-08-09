@@ -64,10 +64,8 @@ const MainIndex = (props) => {
 
   return (
     <div>
-      Welcome to the main index.
-      <ul>
-      <li><Link to={`/shows`}>View Shows</Link></li>
-      </ul>
+      Welcome to the main index.<br/><br/>
+     
       <label>Choose Year
         <form id="yearSelect" onSubmit={handleSubmit}>
           <select defaultValue="none" onChange={handleYearChange}>

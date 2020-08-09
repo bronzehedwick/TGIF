@@ -5,6 +5,8 @@ import ShowTile from "./ShowTile"
 const ShowIndex = (props) => {
 
   const [getShows, setShows] = useState([]);
+  const [getEpisodes, setEpisodes] = useState([]);
+
 
   useEffect(() => {
     fetch("/api/v1/shows")
