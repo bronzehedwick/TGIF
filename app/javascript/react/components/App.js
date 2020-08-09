@@ -6,11 +6,11 @@ import ShowIndex from "./ShowIndex"
 export const App = (props) => {
   return (
     <BrowserRouter>
-    <Switch>
-      <Route exact path="/" component={MainIndex} />
-      <Route exact path="/shows" component={ShowIndex} />
-    </Switch>
-  </BrowserRouter>
+      <Switch>
+        <Route exact path="/" component={MainIndex} />
+        <Route exact path="/shows" component={ShowIndex} />
+      </Switch>
+    </BrowserRouter>
   )
 }
 

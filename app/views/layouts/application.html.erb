@@ -8,19 +8,27 @@
 </head>
 <body>
   
-  <nav class="top-bar">
-    <h1><a href="/">TGIF Time Machine</a></h1>
-
-    <section class="top-bar-section">
-      <ul class="right">
-        <%- if current_user -%>
-          <li><%= link_to 'Sign Out', destroy_user_session_path, method: :delete %></li>
-        <%- else -%>
-          <li><%= link_to 'Sign Up', new_user_registration_path %></li>
-          <li><%= link_to 'Sign In', new_user_session_path %></li>
-        <%- end -%>
-      </ul>
-    </section>
+   <nav class="top-bar topbar-responsive">
+    <div>
+    <ul class="dropdown menu" data-dropdown-menu>
+      <li class="has-submenu">
+        <a href="#0"><span><button class="menu-icon" type="button"></button>
+        </span></a>
+        <ul class="submenu menu vertical" data-submenu>
+          <li ><a class="main-menu-item" href="/">Home</a></li>
+          <li ><a class="main-menu-item" href="/shows">Show & Episode Info</a></li>
+          <li ><a class="main-menu-item" href="#0">About</a></li>
+          <%- if current_user -%>
+          <li id="sign-out"><%= link_to 'Sign Out', destroy_user_session_path, method: :delete %></li>
+          <%- else -%>
+          <li id="sign-up"><%= link_to 'Sign Up', new_user_registration_path %></li>
+          <li id="sign-in"><%= link_to 'Sign In', new_user_session_path %></li>
+          <% end %>
+        </ul>
+      </li>
+    </ul>
+    </div>
+      <h1><a id="title-link" href="/">TGIF Time Machine</a></h1>
   </nav>
 
   <%- flash.each do |key, value| -%>
