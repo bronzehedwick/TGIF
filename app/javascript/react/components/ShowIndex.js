@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
+import ShowTile from "./ShowTile"
 
 const ShowIndex = (props) => {
 
@@ -26,29 +27,30 @@ const ShowIndex = (props) => {
       .catch((error) => console.error(`Error in fetch: ${error.message}`));
   }, []);
 
-    // useEffect(() => {
-  //   fetch("/api/v1/episodes")
-  //     .then((response) => {
-  //       if (response.ok) {
-  //         return response;
-  //       } else {
-  //         let errorMessage = `${response.status} (${response.statusText})`,
-  //           error = new Error(errorMessage);
-  //         throw error;
-  //       }
-  //     })
-  //     .then((response) => response.json())
-  //     .then((body) => {
-  //       let episodeList = body;
-  //       setEpisodes(episodeList.episodeData);
-  //     })
-  //     .catch((error) => console.error(`Error in fetch: ${error.message}`));
-  // }, []);
+  const showList = getShows.map((show) => {
+    return (
+      <ShowTile
+      key={show.id}
+      show_id={show.id}
+      name={show.name}
+      image_url={show.image_url}
+      description={show.description}
+      />
+    );
+  });
 
-
-return (
-  <p>Hello from Show Index</p>
-)
+  return (
+    <div>
+      <p>Hello from Show Index</p>
+      <div className="main-border-pink">
+        <div className="grid-container">
+          {/* <div className="grid-x grid-margin-x small-up-12 medium-up-4"> */}
+            {showList}
+          {/* </div> */}
+        </div>
+      </div>
+    </div>
+  )
 
 }
 

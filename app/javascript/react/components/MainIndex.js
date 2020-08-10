@@ -6,6 +6,12 @@ const MainIndex = (props) => {
   const [getEpisodes, setEpisodes] = useState([]);
   const [getWeeks, setWeeks] = useState([]);
   
+  const [getProgramData, setProgramData] = useState({
+    episodes: [],
+    weeks: []
+  })
+
+
   const [getYear, setYear] = useState("None");
 
   function handleYearChange(event) {
@@ -35,18 +41,20 @@ const MainIndex = (props) => {
     .then(response => response.json())
     .then(body => {
       let data = body;
-      setEpisodes(data.episodeData)
-      setWeeks(data.weekData);
+      setProgramData({...getProgramData,
+        episodes: data.episodeData,
+        weeks: data.weekData
+      })
     })
     .catch(error => console.error(`Error in fetch: ${error.message}`))
   };
 
-  const selectedWeeks = getWeeks.map((week) => {
+  const selectedWeeks = getProgramData.weeks.map((week) => {
     let index = week.week_num - 1
     let episodes = []
-    if (getEpisodes != null) 
+    if (getProgramData.episodes != null) 
       {
-      episodes = getEpisodes[index]
+      episodes = getProgramData.episodes[index]
       }
     return (
       <ProgramTile
@@ -70,12 +78,12 @@ const MainIndex = (props) => {
         <form id="yearSelect" onSubmit={handleSubmit}>
           <select defaultValue="none" onChange={handleYearChange}>
             <option value="none">--Select a Year--</option>
-            <option value="1">Fall 1989 - Spring 1990</option>
-            <option value="2">Fall 1990 - Spring 1991</option>
-            <option value="3">Fall 1991 - Spring 1992</option>
-            <option value="4">Fall 1992 - Spring 1993</option>
-            <option value="5">Fall 1993 - Spring 1994</option>
-            <option value="6">Fall 1994 - Spring 1995</option>
+            <option value="1" >Fall 1989 - Spring 1990</option>
+            <option value="2" >Fall 1990 - Spring 1991</option>
+            <option value="3" >Fall 1991 - Spring 1992</option>
+            <option value="4" >Fall 1992 - Spring 1993</option>
+            <option value="5" >Fall 1993 - Spring 1994</option>
+            <option value="6" >Fall 1994 - Spring 1995</option>
           </select>
           <button type="submit" className="button primary" value="Submit" form="yearSelect">Go</button>
         </form>

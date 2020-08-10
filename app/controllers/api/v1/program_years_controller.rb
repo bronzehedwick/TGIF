@@ -5,7 +5,6 @@ class Api::V1::ProgramYearsController < ApplicationController
   end
 
   def create
-    # binding.pry
     yearParams = params["_json"]
     selectedYear = ProgramYear.find(yearParams)
     @weeks = selectedYear.weeks
@@ -13,7 +12,6 @@ class Api::V1::ProgramYearsController < ApplicationController
     @weeks.each do |week|
       @episodes << Episode.where(original_air_date: week.friday_date)
     end
-    # binding.pry
     render json: { weekData: @weeks, episodeData: @episodes }
   end
 end
