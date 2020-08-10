@@ -3,8 +3,11 @@ import { Link } from "react-router-dom";
 
 const ProgramTile = ({ episodes, week_num, friday_date, slot_8pm, slot_830pm, slot_9pm, slot_930pm }) => {
 
-// debugger
 let timeArray = [slot_8pm, slot_830pm, slot_9pm, slot_930pm]
+
+episodes.sort(function(a, b){
+  return timeArray.indexOf(a.show_name) - timeArray.indexOf(b.show_name)
+})
 
 for(var i=0; i < 4; i++) {
  if (typeof episodes[i] === 'undefined' || !(episodes.some(episode => episode.show_name === timeArray[i]))) {
