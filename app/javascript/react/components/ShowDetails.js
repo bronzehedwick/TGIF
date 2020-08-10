@@ -34,7 +34,7 @@ const ShowDetails = (props) => {
 
   let seasons = []
 
-  function countSeasons(array) {
+  function countSeasonsAndSort(array) {
     array.forEach(function(episode) {
         if (seasons.includes(episode.season)) {
         }
@@ -42,9 +42,10 @@ const ShowDetails = (props) => {
           seasons.push(episode.season)
         }
     });
+    seasons.sort()
   }
 
-  countSeasons(getEpisodes)
+  countSeasonsAndSort(getEpisodes)
 
   const seasonList = seasons.map((season) => {
     let seasonalEpisodes = getEpisodes.filter(episode => episode.season === season)
@@ -53,7 +54,8 @@ const ShowDetails = (props) => {
       selected = true
     }
 
-    let handleSeasonClick = () => { toggleSeasonSelect(season) }
+    let handleSeasonClick = () => { 
+      toggleSeasonSelect(season) }
 
     return (
       <SeasonListItem 
@@ -66,8 +68,8 @@ const ShowDetails = (props) => {
     )
   })
 
-  const toggleSeasonSelect = (season_id) => {
-    if(season_id === selectedSeason) {
+  const toggleSeasonSelect = (id) => {
+    if(id === selectedSeason) {
       setSelectedSeason(null)
     }
     else {

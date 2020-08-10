@@ -12,11 +12,6 @@ episodes.sort(function(a, b){
 for(var i=0; i < 4; i++) {
  if (typeof episodes[i] === 'undefined' || !(episodes.some(episode => episode.show_name === timeArray[i]))) {
   episodes.splice(i, 0, {name: "Rerun"})
-  // console.log(`This should be a rerun week for week ${week_num} show ${timeArray[i]}`)
-  }
- else 
-  {
-  //  console.log(`This should NOT be a rerun week for week ${week_num} show ${timeArray[i]}`)
   }
 }
 
