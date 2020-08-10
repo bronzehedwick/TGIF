@@ -1,4 +1,4 @@
-show_name,show_id,season,episode_num,name,original_air_date,synopsis
+show_name,show_id,season,episode_num,episode_name,original_air_date,synopsis
 Full House,1,1,1,Our Very First Show,1987-09-18,"Danny Tanner, widowed father of three young and rambunctious girls, ages 9 months, 5 and 10 years, recruits his two buddies--his rock 'n' roller brother-in-law, Jesse, and his best friend, Joey, an infrequently employed stand-up comic to help raise his daughters."
 Full House,1,1,2,Our Very First Night,1987-09-25,"The girls are rockin' when Uncle Jesse is left in charge of them for the night, but Danny is reeling when he arrives home to find Jesse conducting band practice."
 Full House,1,1,3,The First Day of School,1987-10-02,Stephanie's reluctance to attend her first day of school disappears when Joey and Jesse visit her kindergarten class.
@@ -582,27 +582,27 @@ Just the Ten of Us,4,2,19,Puberty Blues,1989-04-13,"After failing to scare his s
 Just the Ten of Us,4,2,20,Rock-n-roll Fantasy,1989-04-27,"As the Lubbock sisters take to the stage to sing once more in the local pizzeria, they each daydream about where their singing might one day take them."
 Just the Ten of Us,4,3,1,Betrayal,1989-09-22,"Wendy and Cindy go out on a double-date. But Cindy's date, Cort, is more interested in Wendy. Cort breaks a date to go to an Oingo Boingo concert with Cindy, and takes Wendy instead. Marie realizes what's going on, so she coaxes Cindy into giving Wendy a taste of her own medicine—by going out with Wendy's boyfriend, Blitz."
 Just the Ten of Us,4,3,2,Quarterback Sneak,1989-09-29,"Just days before a big football game, Wendy begins dating the star quarterback (played by Matt LeBlanc) – which makes him 'lose his mind'."
-Just the Ten of Us,4,3,3,Who Cut the Cheese?,1989-10-05,"When the family is offered free food from the government, Graham doesn't want to accept charity. So, unbeknownst to everyone but Connie, Graham takes a job working at Burger Barn--under supervisor Gavin Doosler."
-Just the Ten of Us,4,3,4,Risky Business,1989-10-12,"Scuffling in the closet under the staircase, J.R. and Sherry break Elizabeth's best china. To replace it, they raises the prices of the candy they're supposed to be selling for school."
-Just the Ten of Us,4,3,5,A Couple of Swells,1989-11-02,"Elizabeth takes on the task of the St. Augie's choir. She forces her girls to audition, but Cindy, Wendy and Connie do their best to sabotage their chances of making the choir."
-Just the Ten of Us,4,3,6,Simple Gifts,1989-10-19,Graham and Cindy decide to go on a diet together—and Elizabeth makes sure they both stick to it.
-Just the Ten of Us,4,3,7,That Championship Season,1989-11-09,"Murphy, the quarterback for the championship game, fails a history test because he won't do the work. Others in the school encourage the coach to ignore the situation. In the end, Coach has to decide which is more important: winning, or his self-respect."
-Just the Ten of Us,4,3,8,Dangerous Liaison,1989-11-16,"After a show, a tall-dark-and-handsome stranger buys Wendy a beer, and the two go for a joyride—which ends with the guy robbing a convenience store. The surveillance tape shows that Wendy didn't have anything to do with the actual robbery, but she doesn't understand why her actions were wrong. So Graham and Elizabeth spend the entire night trying to get through to Wendy that she made bad decisions that had an effect on the outcome of the evening. All the while, Wendy contends that she's innocent."
-Just the Ten of Us,4,3,9,St. Augie's Blues (1),1989-11-30,"The teachers of St. Augie's want a raise. Father Hargis fights, but in the end, agrees. In order to do so, he has to raise tuition. When Connie writes the story for the newspaper, the parents reaction leads to disastrous consequences."
+Just the Ten of Us,4,3,3,Who Cut the Cheese?,1989-10-06,"When the family is offered free food from the government, Graham doesn't want to accept charity. So, unbeknownst to everyone but Connie, Graham takes a job working at Burger Barn--under supervisor Gavin Doosler."
+Just the Ten of Us,4,3,4,Risky Business,1989-10-13,"Scuffling in the closet under the staircase, J.R. and Sherry break Elizabeth's best china. To replace it, they raises the prices of the candy they're supposed to be selling for school."
+Just the Ten of Us,4,3,5,A Couple of Swells,1989-11-03,"Elizabeth takes on the task of the St. Augie's choir. She forces her girls to audition, but Cindy, Wendy and Connie do their best to sabotage their chances of making the choir."
+Just the Ten of Us,4,3,6,Simple Gifts,1989-10-20,Graham and Cindy decide to go on a diet together—and Elizabeth makes sure they both stick to it.
+Just the Ten of Us,4,3,7,That Championship Season,1989-11-10,"Murphy, the quarterback for the championship game, fails a history test because he won't do the work. Others in the school encourage the coach to ignore the situation. In the end, Coach has to decide which is more important: winning, or his self-respect."
+Just the Ten of Us,4,3,8,Dangerous Liaison,1989-11-17,"After a show, a tall-dark-and-handsome stranger buys Wendy a beer, and the two go for a joyride—which ends with the guy robbing a convenience store. The surveillance tape shows that Wendy didn't have anything to do with the actual robbery, but she doesn't understand why her actions were wrong. So Graham and Elizabeth spend the entire night trying to get through to Wendy that she made bad decisions that had an effect on the outcome of the evening. All the while, Wendy contends that she's innocent."
+Just the Ten of Us,4,3,9,St. Augie's Blues (1),1989-11-24,"The teachers of St. Augie's want a raise. Father Hargis fights, but in the end, agrees. In order to do so, he has to raise tuition. When Connie writes the story for the newspaper, the parents reaction leads to disastrous consequences."
 Just the Ten of Us,4,3,10,St. Augie's Blues (2),1989-12-01,"Connie tries to make up for the havoc she has caused, but only makes things worse for her dad. Father Hargis tries to broker a truce between parents and teachers, but it takes an apology from Connie to fix the situation."
-Just the Ten of Us,4,3,11,Skateboard,1989-12-07,"J.R. works together with Graham to make his own skateboard, but his friends make him feel embarrassed about it."
-Just the Ten of Us,4,3,12,Highway to Heaven,1989-12-14,"Marie and Elizabeth travel to a convent for a two-week trial, but on the way, Elizabeth begins to suspect that Marie is only doing it to please her."
-Just the Ten of Us,4,3,13,Comedy Tonight,1990-01-04,"St. Augie's holds a variety show, and the Lubbock clan participates. The 'Lubbock Babes' do their usual performance, J.R. and Sherry do a magic show, and Graham does a comedy routine—despite his stage-fright."
-Just the Ten of Us,4,3,14,Poetic Justice,1990-01-11,"Connie gets a crush on her poetry teacher, so she's ecstatic when he invites her to a poetry festival—-as the babysitter, unbeknownst to her."
-Just the Ten of Us,4,3,15,Perfect Date,1990-01-18,Graham sets Wendy up on a date with a scout leader. Wendy retaliates by trying to unleash the 'animal inside of him.'
-Just the Ten of Us,4,3,16,Snow Job (1),1990-02-01,"Gavin Doosler is depressed that he can't go on the annual ski trip—instead he'll be spending his school break at his parents' beach-house in the Virgin Islands. The girls want to go to comfort him—too bad his parents say that 3 of them 'are too sleazy to hang out with.' But since his parents love Marie, Wendy tells him that Marie has a crush on him. Marie, who was excited about the ski trip, is told that Gavin is dying. So the girls head off in their winter attire (except Cindy, who foolishly leaves the house in her beach clothes), and they and Gavin are off on a private plane to the Caribbean. Things are going well at first, until the clueless Sister Ethel reveals that the girls never arrived."
-Just the Ten of Us,4,3,17,Snow Job (2),1990-02-08,"To recap, the girls sneaked off to the Virgin Islands with Gavin Doosler instead of going on the annual ski trip. Marie was told that Gavin was dying, and Gavin was told that Marie had a crush on him. So when the two realize that neither has the same intentions for their trip, they decide to pay back the three deceitful sisters by pretending to be in love. Back at home, Graham and Elizabeth freak out after Sister Ethel tells them that the girls never arrived."
-Just the Ten of Us,4,3,18,False Impressions,1990-02-15,"Connie ends up wearing a costume to the 'Medieval Ball' that enhances her cleavage. When she gets asked out on a date, she ponders if the guy wants to date her—or if he only liked her for her padding."
-Just the Ten of Us,4,3,19,Cindy Breaks a Date,1990-02-22,Cindy resists the advances of a guy she's dating—by breaking his arm.
-Just the Ten of Us,4,3,20,Heartbreaker,1990-03-29,"J.R., feeling that he's being overshadowed by his sisters, tries to make his mark by spray-painting 'Ratboy Lives' on the side of the school gym."
-Just the Ten of Us,4,3,21,Ratboy Lives,1990-04-05,"When a patron at Danny's drops dead at Marie's feet during her solo, she blames herself for killing him."
-Just the Ten of Us,4,3,22,Smoke 'Em if You Got 'Em,1990-04-12,"When Graham finds a cigarette in the basement, he drills the kids to find out who it belonged to. He immediately suspects Wendy but he never suspects it could have been Sherrie's."
-Just the Ten of Us,4,3,23,Slaughter House Ten,1990-05-03,"Graham and J.R. go to the store for groceries and come back with a cow. When the girls learn that Graham's bought it to slaughter, they resort to drastic measures getting the cow pregnant."
+Just the Ten of Us,4,3,11,Skateboard,1989-12-08,"J.R. works together with Graham to make his own skateboard, but his friends make him feel embarrassed about it."
+Just the Ten of Us,4,3,12,Highway to Heaven,1989-12-15,"Marie and Elizabeth travel to a convent for a two-week trial, but on the way, Elizabeth begins to suspect that Marie is only doing it to please her."
+Just the Ten of Us,4,3,13,Comedy Tonight,1990-01-05,"St. Augie's holds a variety show, and the Lubbock clan participates. The 'Lubbock Babes' do their usual performance, J.R. and Sherry do a magic show, and Graham does a comedy routine—despite his stage-fright."
+Just the Ten of Us,4,3,14,Poetic Justice,1990-01-12,"Connie gets a crush on her poetry teacher, so she's ecstatic when he invites her to a poetry festival—-as the babysitter, unbeknownst to her."
+Just the Ten of Us,4,3,15,Perfect Date,1990-01-19,Graham sets Wendy up on a date with a scout leader. Wendy retaliates by trying to unleash the 'animal inside of him.'
+Just the Ten of Us,4,3,16,Snow Job (1),1990-02-02,"Gavin Doosler is depressed that he can't go on the annual ski trip—instead he'll be spending his school break at his parents' beach-house in the Virgin Islands. The girls want to go to comfort him—too bad his parents say that 3 of them 'are too sleazy to hang out with.' But since his parents love Marie, Wendy tells him that Marie has a crush on him. Marie, who was excited about the ski trip, is told that Gavin is dying. So the girls head off in their winter attire (except Cindy, who foolishly leaves the house in her beach clothes), and they and Gavin are off on a private plane to the Caribbean. Things are going well at first, until the clueless Sister Ethel reveals that the girls never arrived."
+Just the Ten of Us,4,3,17,Snow Job (2),1990-02-09,"To recap, the girls sneaked off to the Virgin Islands with Gavin Doosler instead of going on the annual ski trip. Marie was told that Gavin was dying, and Gavin was told that Marie had a crush on him. So when the two realize that neither has the same intentions for their trip, they decide to pay back the three deceitful sisters by pretending to be in love. Back at home, Graham and Elizabeth freak out after Sister Ethel tells them that the girls never arrived."
+Just the Ten of Us,4,3,18,False Impressions,1990-02-16,"Connie ends up wearing a costume to the 'Medieval Ball' that enhances her cleavage. When she gets asked out on a date, she ponders if the guy wants to date her—or if he only liked her for her padding."
+Just the Ten of Us,4,3,19,Cindy Breaks a Date,1990-02-23,Cindy resists the advances of a guy she's dating—by breaking his arm.
+Just the Ten of Us,4,3,21,Ratboy Lives,1990-03-16,"When a patron at Danny's drops dead at Marie's feet during her solo, she blames herself for killing him."
+Just the Ten of Us,4,3,20,Heartbreaker,1990-03-30,"J.R., feeling that he's being overshadowed by his sisters, tries to make his mark by spray-painting 'Ratboy Lives' on the side of the school gym."
+Just the Ten of Us,4,3,22,Smoke 'Em if You Got 'Em,1990-04-27,"When Graham finds a cigarette in the basement, he drills the kids to find out who it belonged to. He immediately suspects Wendy but he never suspects it could have been Sherrie's."
+Just the Ten of Us,4,3,23,Slaughter House Ten,1990-05-04,"Graham and J.R. go to the store for groceries and come back with a cow. When the girls learn that Graham's bought it to slaughter, they resort to drastic measures getting the cow pregnant."
 Going Places,5,1,1,Welcome to L.A.,1990-09-21,Four young writers get jobs in Los Angeles where they all rent a house from their boss.
 Going Places,5,1,2,Born to Be Mild,1990-09-28,Charlie buys a new sports car with the intention of courting Dawn's receptionist.
 Going Places,5,1,3,Another Saturday Night,1990-10-05,Kate and Charlie look to personal ads when they get bored with playing board games every Saturday night.
@@ -622,166 +622,166 @@ Going Places,5,1,16,Take My Girlfriend Please,1991-02-15,Nick encourages Dick's 
 Going Places,5,1,17,Mommy Dearest,1991-02-22,"Jack feels uneasy about his girlfriend hanging out with Charlie, while Sam gets caught hiding Nick's cheat sheets during a test."
 Going Places,5,1,18,The Camping Show,1991-03-08,Kate questions the way Nick's mother parents him.
 Going Places,5,1,19,Room to Move,1991-02-01,Jack and Charlie get lost in the woods when they chaperone Sam and Nick's camping trip.
-Step By Step,6,1,1,Pilot,1991-09-20,"While vacationing in the Caribbean, Frank and Carol get married, and when they return, have to deal with the conflicts between their children."
-Step By Step,6,1,2,The Dance,1991-09-27,"Al's date for the school dance is the infamous nerd, Steve Urkel."
-Step By Step,6,1,3,Rules of the House,1991-10-04,"Noticing a lack of discipline among her new family, Carol decides to institute some household rules that Frank and his kids have a difficult time following."
-Step By Step,6,1,4,First Anniversary,1991-10-11,"To Carol's disappointment, Frank doesn't see any significance to their one-month wedding anniversary."
-Step By Step,6,1,5,Frank & Son,1991-10-18,"Frank wants his son, J.T., to work in his construction business, but J.T. would rather work with Carol at the beauty salon."
-Step By Step,6,1,6,Pulling Together,1991-10-25,Frank isn't pleased when he learns that Carol wants her family to join his family for the annual family day competition.
-Step By Step,6,1,7,Yo-Yo's Wedding,1991-11-01,"Frank and Carol repeat their wedding vows, but who's that guy dressed as a clown?"
-Step By Step,6,1,8,Just for Kicks,1991-11-08,"Dana defies her mother and goes to a rough nightclub, and immediately gets in trouble."
-Step By Step,6,1,9,Into the Woods,1991-11-15,"Frank wants the family to do more things together, but the camping trip he plans is a disaster."
-Step By Step,6,1,10,Mixed Messages,1991-11-22,Karen's failure to give Frank an important message almost results in his death.
-Step By Step,6,1,11,A Day in the Life,1991-11-29,A television crew doing a program on blended families pays a visit to the Lambert household.
-Step By Step,6,1,12,The New Car,1991-12-06,"When Frank and Carol purchase a new car for the family, J.T. immediately 'borrows' it to impress a beautiful girl on their first date."
-Step By Step,6,1,13,Getting Organized,1991-12-13,"Carol transfers all of Frank's disorganized business records into a computer system, then accidentally erases all of the files."
-Step By Step,6,1,14,Home Alone,1992-01-03,"When Frank and Carol leave Dana in charge of the children for a weekend, a quiet evening with a few friends quickly turns into a wild uncontrollable party."
-Step By Step,6,1,15,"Drive, He Said",1992-01-17,"Soon after Dana gets her driver's license, she and Frank are nearly involved in a serious traffic accident."
-Step By Step,6,1,16,Bully for Mark,1992-02-07,The Lambert family members try to help Mark defend himself against a school bully until they discover that the bully is a sweet little girl named Max.
-Step By Step,6,1,17,The Boys in the Band,1992-02-14,"When the girls in Al's heavy metal band are stricken with the flu on the night of their debut concert, J.T. and Cody disguise themselves as teenaged punk-rock girls so the show can go on."
-Step By Step,6,1,18,School Daze,1992-02-21,"When Carol starts attending school full-time, Frank takes over her household chores, with disastrous results."
-Step By Step,6,1,19,Country Club,1992-02-28,"The Lamberts are invited to join the exclusive Port Washington Country Club, but Frank, Carol and the children don't fit in with the rich snobs of the community."
-Step By Step,6,1,20,Daddy's Girl,1992-03-06,"When Bill Lambert presents his beautiful young fiance, Luanne Dexter, his son, Frank, recognizes her as a stripper who appeared at a recent bachelor party."
-Step By Step,6,1,21,He Wanted Wings,1992-03-27,Frank and Carol are enjoying Frank's first flying lesson until they realize they're trapped in the cockpit with a suicidal flight instructor.
-Step By Step,6,1,22,Beauty Contest,1992-04-24,"Carol and Karen enter a mother/daughter beauty contest at Frank's men's club and are immediately propositioned by two of the lecherous judges, Howard and Bob Gordon."
-Step By Step,6,2,1,S.A.T. Blues,1992-09-18,"When Cody gets a higher score than Dana on a Scholastic Aptitude Test, she challenges him to take the test again."
-Step By Step,6,2,2,To B or Not to Be,1992-09-25,"When J.T. stays up all night studying for a Shakespeare test and still gets a low mark, Carol and Frank decide to confront his teacher, Mrs. Hill, about her prejudiced system of grading."
-Step By Step,6,2,3,Stuck on You,1992-10-02,"Afraid that Al likes her new friend's father better than him, Frank goes to ridiculous extremes to win back her affection."
-Step By Step,6,2,4,JT's World,1992-10-09,"J.T. produces his own Public Access Television show, but he gets into trouble when he uses it as a way to meet girls."
-Step By Step,6,2,5,It's a Dog's Life,1992-10-16,"When their neighbors go on vacation, the Lamberts agree to look after their dog for them, unaware that he will soon destroy their home."
-Step By Step,6,2,6,The Boss,1992-10-23,"Dana is hired as the assistant manager of a small cafe and quickly becomes a merciless tyrant over her employees: J.T., Karen and Cody."
-Step By Step,6,2,7,Model Daughter,1992-10-30,"When Karen is hired as a model for fashion photos, Carol goes with her. Carol makes so many suggestions that Karen almost loses the job."
-Step By Step,6,2,8,Someone to Watch Over Me,1992-11-06,Frank worries over Dana's safety when she dates an older boy known for his aggressiveness with girls.
-Step By Step,6,2,9,The Making of the President,1992-11-13,Dana and J.T. both campaign at school to be elected for the job of Student Body President. Their competition divides the loyalties of the Lambert family.
-Step By Step,6,2,10,Virgin Territory,1992-11-20,"When J.T. and Cody date two sisters who are anxious to have sex, Cody secretly confesses to J.T. that he wants to keep his virginity."
-Step By Step,6,2,11,Back to Basics,1992-12-04,"When Carol and Frank decide to reduce the children's spending habits, the kids blame Brendan for losing an expensive videotape and he decides to run away from home."
-Step By Step,6,2,12,Boys Will Be Boys,1992-12-11,"Frank tries to relive his wild years as a teenager when he gets a surprise visit from his old friend, Scooter Randolph."
-Step By Step,6,2,13,If I Were a Rich Man,1993-01-08,"When Cody inherits $250,000, the Lambert children try to persuade him to invest in their own extravagant fantasies."
-Step By Step,6,2,14,"Happy Birthday, Baby",1993-01-15,"When Carol refuses to allow Dana to have an unchaperoned birthday party at the house, Dana and her friend, Traci, rent a hotel room and secretly host a party of their own."
-Step By Step,6,2,15,One of the Guys,1993-01-22,"Carol suspects that Frank is having an affair with an attractive female carpenter, Aggie."
-Step By Step,6,2,16,No Business Like Show Business,1993-02-05,J.T. and Cody feel like instant celebrities when a television producer agrees to broadcast 'J.T.'s World' over a national network.
-Step By Step,6,2,17,"Love, Port Washington Style",1993-02-12,Frank spends Valentine's Day creating havoc in Carol's beauty shop while J.T. and Cody rent an expensive limousine and Dana meets a new boyfriend.
-Step By Step,6,2,18,Aloha (1),1993-02-19,"The Lamberts spend an exciting week vacationing on an exotic Hawaiian island."
-Step By Step,6,2,19,Aloha (2),1993-02-26,"The Lamberts spend an exciting week vacationing on an exotic Hawaiian island."
-Step By Step,6,2,20,No Way to Treat a Lady,1993-03-12,"When J.T.'s new girlfriend, Gina, insists on being treated with more respect, he forces Mark to teach him how to act like a gentleman."
-Step By Step,6,2,21,The Un-Natural,1993-04-02,Frank worries that his children's baseball team will lose the championship game if he gives Mark a chance to play.
-Step By Step,6,2,22,The Psychic,1993-04-30,"After a gypsy fortune teller, Madam Sonia, predicts that J.T. will be murdered at midnight, J.T. and Cody suspect that Karen is the killer."
-Step By Step,6,2,23,This Old House,1993-05-07,Frank risks losing his entire business in a lawsuit when Carol and Cody defend a poor family who refuse to leave a condemned house that Frank has contracted to demolish.
-Step By Step,6,2,24,Double Date,1993-05-21,Karen selfishly cancels her date with an average-looking boy so she can be seen with a handsome and popular athlete.
-Step By Step,6,3,1,Way-Off Broadway,1993-09-24,"After accepting the role of 'Juliet' in a community theatre play, Dana is horrified to learn that Cody will be portraying 'Romeo.' Frank loses his wedding ring on the golf course after he lies to Carol about playing golf."
-Step By Step,6,3,2,The Apartment,1993-10-01,"When Dana moves into her own apartment, Frank struggles to keep Carol from interfering with her daughter's independence."
-Step By Step,6,3,3,Never on Sunday,1993-10-08,Frank and the Lambert children promise attend a Sunday morning church service to please Carol and the Reverend Fielder but have trouble sacrificing their televised football game to do it.
-Step By Step,6,3,4,The Paper Chase,1993-10-15,"When J.T. steals several book reports from Mark's computer and sells them to some of the school's athletes, Dana gets him in trouble by 'rewriting' them herself."
-Step By Step,6,3,5,Trading Places,1993-10-22,"To settle a family argument, Frank and Carol agree to portray the teenagers for a weekend, while Dana and J.T. portray the parents."
-Step By Step,6,3,6,Video Mania,1993-10-29,"When Frank buys a new home video game system, Mark becomes addicted to playing it. Cody discovers the healing power of transcendental meditation."
-Step By Step,6,3,7,Hog Wild,1993-11-05,"J.T. and Cody open their own motorcycle repair service, while Frank and Carol compete to see which of them can buy the most expensive anniversary gift."
-Step By Step,6,3,8,Down and Out in Port Washington,1993-11-12,Cody moves into the Lambert's living room while his van is being repaired and interferes with the family's privacy.
-Step By Step,6,3,9,The Marrying Dude,1993-11-19,"While Dana and Karen help Al increase the size of her breasts, Cody becomes engaged to a woman with a 6-year-old son."
-Step By Step,6,3,10,Sister Act,1993-11-26,"When Karen accuses Dana of stealing one of her potential boyfriends, she ruins Dana's new romance with a jealous lie."
-Step By Step,6,3,11,Christmas Story,1993-12-10,"On Christmas Eve, Frank and Carol are mistakenly arrested by Deputy Feif for robbing a toy store."
-Step By Step,6,3,12,Close Encounters of the Marital Kind,1993-12-17,"Following the suggestions of a guidebook to marital bliss, Frank and Carol reveal secrets about their pasts that almost ruin their marriage."
-Step By Step,6,3,13,Bad Girls,1994-01-07,Frank and Carol worry when Al makes friends with a gang of punk rock girls and starts to behave like them.
-Step By Step,6,3,14,Read All About It,1994-01-14,"While leading a children's reading class at the library, Cody realizes one boy is terrified to read aloud. When Frank learns he made less money than Carol last year, he gets a humiliating second job."
-Step By Step,6,3,15,Thirteen with a Bullet,1994-01-28,"During his thirteenth birthday party, Mark falls in love with a pretty girl but is soon heartbroken when she rejects his gift of flowers."
-Step By Step,6,3,16,My Bodyguard,1994-02-04,"When Cody predicts that Dana will be attacked by a man dressed in a dark suit, he secretly follows her to an important interview with the Dean of Admissions at a big Chicago college."
-Step By Step,6,3,17,Pretty Woman,1994-02-18,Karen is jealous when Al is chosen to be the new model for a company that makes fashion jeans for women. Cody experiences the return of a 'good-luck curse.'
-Step By Step,6,3,18,Nightmare Weekend,1994-02-25,"Frank takes Carol to a romantic lodge, and belatedly remembers that he took his former girlfriend there. The Lambert and Foster children watch a grisly horror video and take turns scaring each other."
-Step By Step,6,3,19,Birth of a Salesman,1994-03-11,Frank and Carol worry that J.T. will never pursue a college education after earning his first commission as a used car salesman.
-Step By Step,6,3,20,Feeling Forty,1994-03-25,"Carol buys some new diet pills to help her lose weight and look younger. Unfortunately, she becomes addicted to them. Cody meets Abraham Lincoln's ghost."
-Step By Step,6,3,21,The Case of the Missing Diary,1994-04-29,"When Karen accuses one of her siblings of stealing her diary, Cody writes a story about it in the style of a 1940s film-noire detective mystery."
-Step By Step,6,3,22,Great Expectations,1994-05-06,Cody reluctantly becomes a senior vice president in his father's real estate company. Carol unknowingly arranges a date for Dana and Karen with two boys who resemble Beavis and Butt-Head.
-Step By Step,6,3,23,Prom Night,1994-05-20,"After Dana teases J.T. about the 13-year-old girl he was tricked into taking to the senior prom, her own date deserts her."
-Step By Step,6,4,1,Karate Kid,1994-09-23,Cody trains Mark for a karate match and fights a bully. Frank installs an intercom to prevent his family from yelling at home.
-Step By Step,6,4,2,College Bound,1994-09-30,Dana is upset when she must attend a community college with Cody rather than go to Harvard. J.T. gets his first credit card and goes on a spending spree.
-Step By Step,6,4,3,Animal House,1994-10-07,"Karen is harassed by Cody's fraternity brothers. Brendan takes up the trumpet, annoying his family."
-Step By Step,6,4,4,Spoiled Sport,1994-10-14,Carol is offered the sports broadcaster job that Frank wanted. The kids fight over food.
-Step By Step,6,4,5,Revenge of the Nerd,1994-10-21,Karen dates a social outcast in an attempt to be voted homecoming queen at school. Cody gets amnesia when he's struck by lightning.
-Step By Step,6,4,6,Something Wild,1994-10-28,Mark gets in trouble when he gets involved with a wild girl from school. Frank and Carol host a Halloween party. Cody makes the Guinness Book of World Records with the help of a pumpkin.
-Step By Step,6,4,7,Growing Up is Hard to Do,1994-11-04,Carol thinks she may be pregnant. Dana and Cody compete in college with surprising results. Al goes out on her first real date with a boy.
-Step By Step,6,4,8,Beyond Therapy,1994-11-11,"Carol and Frank announce to the family that they're going to have a baby. When everyone gets upset, Carol insists the family see a therapist."
-Step By Step,6,4,9,The Ice Cream Man Cometh,1994-11-18,Cody tries to stop a former friend from committing suicide and ends up falling out of a plane. Frank and Carol talk about adding another room to the house for the new baby.
-Step By Step,6,4,10,Letting Go,1994-11-25,Frank and Carol humiliate Al by spying on her during a date with a new boy. Dana develops an allergic reaction towards Cody.
-Step By Step,6,4,11,Make Room for Daddy,1994-12-09,"Frank gets worried that Carol will give all her love and attention to the new baby. Mark meets a girl he's been communicating with via computer. Karen, Dana and Al have a 'girls' night' together."
-Step By Step,6,4,12,I'll Be Home for Christmas,1994-12-16,"On Christmas, J.T.'s ski trip plans go awry, and crotchety Aunt Edna annoys everybody, until the whole family learns a lesson about relationships."
-Step By Step,6,4,13,Can't Buy Me Love,1995-01-06,J.T. lies about being wealthy to a pretty girl. Carol insists that Frank accompany her to the gynecologist.
-Step By Step,6,4,14,Thirtysomething,1995-01-20,Dana dates an older man and learns a valuable lesson. Carol craves all sorts of strange foods.
-Step By Step,6,4,15,The Honeymoon is Over,1995-02-03,"J.T. advises Mark on how to handle women, with disastrous results. Carol buys Frank an unusual birthday present."
-Step By Step,6,4,16,"One Truck, Al Dente",1995-02-10,Al and J.T. try to hide the dent they put in Frank's truck. Carol and Frank attend an infant care class with disastrous results for Frank.
-Step By Step,6,4,17,Head of the Class,1995-02-17,"Cody and Dana enter their tutoring students in a local television game show. Everyone tries to help Carol with the housework, with mixed results."
-Step By Step,6,4,18,Back to School,1995-03-03,J.T. finds out why he was always a poor student. Carol and Frank apply to a prestigious preschool for their as-yet--unborn child.
-Step By Step,6,4,19,She Came in Through the Bedroom Window,1995-03-17,Carol thinks Frank is having a love affair with a former girlfriend. Cody tries not to say 'dude.'
-Step By Step,6,4,20,Indecent Proposal,1995-03-31,"J.T. has the chance of a lifetime when his sexy college professor is interested in more than his mind. Cody sleepwalks, acting like a 5-year-old."
-Step By Step,6,4,21,"Where Have You Gone, Joe DiMaggio?",1995-04-28,"Brendan finds out his baseball hero is not such a great guy and Harmon Killebrew comes to the rescue. Frank and J.T. learns what it's like to be pregnant, the hard way."
-Step By Step,6,4,22,Adventures in Babysitting,1995-05-05,"Al and J.T. form a babysitting service, but when they try to care for 30 wild children, it's more than they can handle."
-Step By Step,6,4,23,Big Girl on Campus,1995-05-12,Al goes to a college fraternity party and impresses everybody with her maturity. But a devious guy almost ruins her big night.
-Step By Step,6,4,24,A Foster/Lambert Production,1995-05-19,"Carol begins to give birth, prompting the children to reminisce on their times together."
-Step By Step,6,5,1,Little Sister Don'tcha,1995-09-22,"J.T. is excited about his double date with his pal and two girls, until he finds out who his pal's date is."
-Step By Step,6,5,2,Three Girls and a Baby,1995-09-29,The girls care for the new baby while Frank and Carol go on a romantic date. But everyone's evening is filled with surprises.
-Step By Step,6,5,3,Party Animal,1995-10-13,Dana goes wild when she moves into her own place to live. J.T. and Mark think their new neighbor is a criminal.
-Step By Step,6,5,4,Midnight Caller,1995-10-20,Dana and J.T. get overly involved when they answer a call for a telephone counseling service.
-Step By Step,6,5,5,Maid to Order,1995-10-27,J.T. hires a beautiful model to clean the house. Carol exposes her competitive nature when Karen competes to be head cheerleader.
-Step By Step,6,5,6,Don't Ask,1995-11-03,Frank and Carol are overwhelmed by caring for everyone. Karen might get her big chance as a singer. Cody receives a surprise when he orders from a Russian mail-order catalogue.
-Step By Step,6,5,7,"Hello, Mister Chips",1995-11-10,Chaos ensues when Al takes her boss's chimpanzee home. J.T. tries to use Mark's newfound talent to swindle a pool hustler.
-Step By Step,6,5,8,Roadie,1995-11-17,Cody could leave town to tour with a rock star. Frank becomes obsessed with the kids' car.
-Step By Step,6,5,9,The Wall,1995-11-24,"Dana's feminist organization attracts a surprising new member, Cody. Mark is dateless for the school dance."
-Step By Step,6,5,10,Baby Come Back,1995-12-01,J.T. and Al audition Lilly to represent a baby food company. Frank annoys Carol at her beauty products convention.
-Step By Step,6,5,11,The Fight Before Christmas,1995-12-15,J.T.'s co-worker teaches him the true meaning of Christmas. Frank causes a feud with the neighbors.
-Step By Step,6,5,12,What's Wrong with This Picture?,1996-01-05,Dana poses nude for an abstract painting but she's in for a big surprise. Frank becomes obsessed with catching a rat in the attic.
-Step By Step,6,5,13,Beautiful Ladies of Wrestling,1996-01-12,Frank and J.T. are sure they can defeat two female professional wrestlers. Mark wants to go to an advanced school.
-Step By Step,6,5,14,Torn Between Two Mothers,1996-01-26,Frank's mother visits and cause problems with Carol.
-Step By Step,6,5,15,Snow Bunnies,1996-02-02,Al spies on her boyfriend when Frank forbids her from going on a ski weekend with him.
-Step By Step,6,5,16,Secret Admirer,1996-02-09,"Cody tries to make Dana feel less lonely on Valentine's Day by sending her anonymous love letters. Carol is put in jail, and it's Frank's fault."
-Step By Step,6,5,17,Forever Young,1996-02-16,"Frank and Carol try to be youthful and hip like the parents in Lilly's play group, with painful results."
-Step By Step,6,5,18,Guess Who's Coming to Dinner?,1996-02-23,Dana's new boyfriend offends Frank and Carol. J.T. pretends to be Lilly's father to get a date.
-Step By Step,6,5,19,Do the Right Thing,1996-03-08,Frank is suspicious when J.T. gets a good test score in college. Carol reveals a secret about herself.
-Step By Step,6,5,20,The Bodyguard Formerly Known as Prince,1996-03-15,"The girls meet three great guys, one of whom is a crown prince."
-Step By Step,6,5,21,Major Pain,1996-04-26,"Dana, J.T. and Rich go to a career testing center and get some surprising results."
-Step By Step,6,5,22,We're Going to Disney World (1),1996-05-03,The whole family visits Walt Disney World. J.T. and Rich argue over money. The girls enter a singing contest.
-Step By Step,6,5,23,We're Going to Disney World (2),1996-05-10,"While the family is at Walt Disney World, Flash tries to visit every attraction. Karen gets overeager about a singing contest. J.T. and Rich attempt to resolve a disagreement."
-Step By Step,6,5,24,Men at Work,1996-05-17,J.T. and Rich find out what it's like to be sexual objects. Frank converts the basement into a lounge.
-Step By Step,6,6,1,Crazy Love,1997-03-07,"An attractive, older Frenchwoman proposes marriage to J.T. and he accepts. Frank finds Mark and his friends watching pornography."
-Step By Step,6,6,2,Road Trip,1997-03-14,J.T. and Rich get locked up in a Mexican prison.
-Step By Step,6,6,3,"Sex, Lies and Videotape",1997-03-21,"Frank and Carol are not happy when JT starts dating a 29 year-old French woman, but she has an ulterior motive. Mark and his mates hire a porn video but Frank springs them before they have a chance to watch it."
-Step By Step,6,6,4,Just Say Maybe,1997-03-28,Al is tempted to use marijuana when she is at a concert. Carol's married friend flirts with Jean-Luc.
-Step By Step,6,6,5,The 'L' Word,1997-04-04,Dana's loyalty to Rich is tested when an old friend comes on to her. Frank and Jean-Luc get more than they expected on a camping trip.
-Step By Step,6,6,6,She's the One,1997-04-11,Karen gets prepared to appear in a music video. JT finds himself attracted to a tow-truck driver.
-Step By Step,6,6,7,Independence Day,1997-04-18,JT moves out. Carol and the girls have a good time at a karaoke bar.
-Step By Step,6,6,8,Reality Bites,1997-04-25,Frank is forced to evict Rich and JT after they act irresponsibly about the rent. Jean-Luc gives Lilly too much attention.
-Step By Step,6,6,9,Locket Man,1997-05-02,"Franks goes through a mid-life crisis. Dana is not pleased with Rich's gift to her."
-Step By Step,6,6,10,How the West Was Won,1997-05-09,Frank dreams that he is back in the Wild West.
-Step By Step,6,6,11,Absolutely Fabio,1997-05-16,Rich and Dana help at Lilly's birthday party. Jean-Luc cuts Fabio's hair.
-Step By Step,6,6,12,Loose Lips,1997-05-23,Karen gets dumped. Mark learns a lesson after bragging about a date to his friends.
-Step By Step,6,6,13,The Big Date,1997-05-30,Al dates an overweight guy. Dana and Sam must decide whether to have sex with their respective boyfriends.
-Step By Step,6,6,14,Future Shock,1997-06-06,A friend's wedding causes Dana and Rich to wonder what their marriage will be like.
-Step By Step,6,6,15,Show Me the Money,1997-06-13,JT and Rich are put in charge of a promising college hockey player.
-Step By Step,6,6,16,It Didn't Happen One Night,1997-06-20,"After Al refuses to go against her principles, her date begins spreading mean rumors about her. Carol and Dana try to distract Frank and Rich from television sports."
-Step By Step,6,6,17,Macho Man,1997-06-27,"JT has a vision of his future with his current girlfriend, Sam and he begins to fear being married to her."
-Step By Step,6,6,18,Ain't Misbehavin',1997-07-04,Jean-Luc borrows money from Frank and Carol and squanders it instead of repaying them. J.T. refuses to accept that Sam's new roommate is a man.
-Step By Step,6,6,19,The Facts of Life,1997-07-11,Lilly recites the truth according to her parents on the birds and the bees.
-Step By Step,6,6,20,Talking Trash,1997-07-18,Dana and Rich are teamed with other people for a community recycling contest and find themselves in competition with each other.
-Step By Step,6,6,21,Walk Like a Man,1997-07-25,Carol embarrasses Mark. Rich tries to be independent from Dana.
-Step By Step,6,6,22,Shear Madness,1997-08-01,Jean-Luc is too nervous to cut a celebrity's hair. Frank thinks he found the perfect guy for Al.
-Step By Step,6,6,23,The Kissing Game,1997-08-08,"JT tries to help the kids when they seek to get some privacy with their dates. Jean-Luc tries to impress his date, with disastrous results."
-Step By Step,6,6,24,Bonjour Jean-Luc,1997-08-15,Frank is anxious about Carol and Jean-Luc's plan to open a salon together.
-Step By Step,6,7,1,Making the Grade,1997-09-19,Carol decides to go back to school.
-Step By Step,6,7,2,A Star is Born,1997-09-26,Al reveals that she intends to quit school now that she has a part in a movie.
-Step By Step,6,7,3,Your Cheatin' Heart,1997-10-03,Frank and Carol's romantic evening is plagued by unwanted interruptions. Dana suspects that Rich is being unfaithful.
-Step By Step,6,7,4,Take This Job and ...,1997-10-10,Frank is given a boat in exchange for the payment of a debt. JT starts working for his girlfriend.
-Step By Step,6,7,5,Poetic Justice,1997-10-17,Karen believes that she is failing because she refuses to go out with a teaching assistant.
-Step By Step,6,7,6,Can't Buy Me Love,1997-10-24,Dana and Karen consider joining a sorority. A builder sets his sights on Carol.
-Step By Step,6,7,7,Dream Lover,1997-10-31,JT and Sam break up on Halloween.
-Step By Step,6,7,8,Girls Just Wanna Have Fun,1997-11-07,An unscrupulous cousin of Frank's comes to visit. Dana asks JT to teach her how to have fun when she fears that Rich is becoming bored with her.
-Step By Step,6,7,9,"Goodbye, Mr. Chip",1997-12-05,"Carol believes that she is giving good advice, until she sees the end results."
-Step By Step,6,7,10,Too Many Santas,1997-12-19,Lilly becomes disillusioned with Christmas after she recognizes the department Santa as JT.
-Step By Step,6,7,11,Phoney Business,1998-01-09,Al does a suntan lotion commercial.
-Step By Step,6,7,12,Goin' to the Chapel,1998-01-16,Rich and Dana decide to elope after Frank and Carol hastily come to the wrong conclusion about them.
-Step By Step,6,7,13,Feet of Clay,1998-01-23,Carol and Frank try role-playing to liven up their love life. Dana and Rich join a pottery class.
-Step By Step,6,7,14,Pain in the Class,1998-01-30,"Frank is hesitant about attending his high-school reunion."
-Step By Step,6,7,15,The Half Monty,1998-02-27,Rich and JT decide to enter a contest for male-strippers in order to win money for a ski trip.
-Step By Step,6,7,16,And Justice for Some,1998-06-05,J.T. and Frank argue over a truck. Karen and Al compete when a handsome policeman visits.
-Step By Step,6,7,17,The Understudy,1998-06-12,Al gets into trouble when she refuses to learn her part in a local theatre production. Dana wants Lilly to be a genius.
-Step By Step,6,7,18,We're in the Money,1998-06-19,"Frank's nephew, Cody, returns, with a gift that causes trouble for Frank and Carol."
-Step By Step,6,7,19,Movin' on Up,1998-06-26,"Lilly is the only family member who is not excited about moving to a bigger house."
+Step by Step,6,1,1,Pilot,1991-09-20,"While vacationing in the Caribbean, Frank and Carol get married, and when they return, have to deal with the conflicts between their children."
+Step by Step,6,1,2,The Dance,1991-09-27,"Al's date for the school dance is the infamous nerd, Steve Urkel."
+Step by Step,6,1,3,Rules of the House,1991-10-04,"Noticing a lack of discipline among her new family, Carol decides to institute some household rules that Frank and his kids have a difficult time following."
+Step by Step,6,1,4,First Anniversary,1991-10-11,"To Carol's disappointment, Frank doesn't see any significance to their one-month wedding anniversary."
+Step by Step,6,1,5,Frank & Son,1991-10-18,"Frank wants his son, J.T., to work in his construction business, but J.T. would rather work with Carol at the beauty salon."
+Step by Step,6,1,6,Pulling Together,1991-10-25,Frank isn't pleased when he learns that Carol wants her family to join his family for the annual family day competition.
+Step by Step,6,1,7,Yo-Yo's Wedding,1991-11-01,"Frank and Carol repeat their wedding vows, but who's that guy dressed as a clown?"
+Step by Step,6,1,8,Just for Kicks,1991-11-08,"Dana defies her mother and goes to a rough nightclub, and immediately gets in trouble."
+Step by Step,6,1,9,Into the Woods,1991-11-15,"Frank wants the family to do more things together, but the camping trip he plans is a disaster."
+Step by Step,6,1,10,Mixed Messages,1991-11-22,Karen's failure to give Frank an important message almost results in his death.
+Step by Step,6,1,11,A Day in the Life,1991-11-29,A television crew doing a program on blended families pays a visit to the Lambert household.
+Step by Step,6,1,12,The New Car,1991-12-06,"When Frank and Carol purchase a new car for the family, J.T. immediately 'borrows' it to impress a beautiful girl on their first date."
+Step by Step,6,1,13,Getting Organized,1991-12-13,"Carol transfers all of Frank's disorganized business records into a computer system, then accidentally erases all of the files."
+Step by Step,6,1,14,Home Alone,1992-01-03,"When Frank and Carol leave Dana in charge of the children for a weekend, a quiet evening with a few friends quickly turns into a wild uncontrollable party."
+Step by Step,6,1,15,"Drive, He Said",1992-01-17,"Soon after Dana gets her driver's license, she and Frank are nearly involved in a serious traffic accident."
+Step by Step,6,1,16,Bully for Mark,1992-02-07,The Lambert family members try to help Mark defend himself against a school bully until they discover that the bully is a sweet little girl named Max.
+Step by Step,6,1,17,The Boys in the Band,1992-02-14,"When the girls in Al's heavy metal band are stricken with the flu on the night of their debut concert, J.T. and Cody disguise themselves as teenaged punk-rock girls so the show can go on."
+Step by Step,6,1,18,School Daze,1992-02-21,"When Carol starts attending school full-time, Frank takes over her household chores, with disastrous results."
+Step by Step,6,1,19,Country Club,1992-02-28,"The Lamberts are invited to join the exclusive Port Washington Country Club, but Frank, Carol and the children don't fit in with the rich snobs of the community."
+Step by Step,6,1,20,Daddy's Girl,1992-03-06,"When Bill Lambert presents his beautiful young fiance, Luanne Dexter, his son, Frank, recognizes her as a stripper who appeared at a recent bachelor party."
+Step by Step,6,1,21,He Wanted Wings,1992-03-27,Frank and Carol are enjoying Frank's first flying lesson until they realize they're trapped in the cockpit with a suicidal flight instructor.
+Step by Step,6,1,22,Beauty Contest,1992-04-24,"Carol and Karen enter a mother/daughter beauty contest at Frank's men's club and are immediately propositioned by two of the lecherous judges, Howard and Bob Gordon."
+Step by Step,6,2,1,S.A.T. Blues,1992-09-18,"When Cody gets a higher score than Dana on a Scholastic Aptitude Test, she challenges him to take the test again."
+Step by Step,6,2,2,To B or Not to Be,1992-09-25,"When J.T. stays up all night studying for a Shakespeare test and still gets a low mark, Carol and Frank decide to confront his teacher, Mrs. Hill, about her prejudiced system of grading."
+Step by Step,6,2,3,Stuck on You,1992-10-02,"Afraid that Al likes her new friend's father better than him, Frank goes to ridiculous extremes to win back her affection."
+Step by Step,6,2,4,JT's World,1992-10-09,"J.T. produces his own Public Access Television show, but he gets into trouble when he uses it as a way to meet girls."
+Step by Step,6,2,5,It's a Dog's Life,1992-10-16,"When their neighbors go on vacation, the Lamberts agree to look after their dog for them, unaware that he will soon destroy their home."
+Step by Step,6,2,6,The Boss,1992-10-23,"Dana is hired as the assistant manager of a small cafe and quickly becomes a merciless tyrant over her employees: J.T., Karen and Cody."
+Step by Step,6,2,7,Model Daughter,1992-10-30,"When Karen is hired as a model for fashion photos, Carol goes with her. Carol makes so many suggestions that Karen almost loses the job."
+Step by Step,6,2,8,Someone to Watch Over Me,1992-11-06,Frank worries over Dana's safety when she dates an older boy known for his aggressiveness with girls.
+Step by Step,6,2,9,The Making of the President,1992-11-13,Dana and J.T. both campaign at school to be elected for the job of Student Body President. Their competition divides the loyalties of the Lambert family.
+Step by Step,6,2,10,Virgin Territory,1992-11-20,"When J.T. and Cody date two sisters who are anxious to have sex, Cody secretly confesses to J.T. that he wants to keep his virginity."
+Step by Step,6,2,11,Back to Basics,1992-12-04,"When Carol and Frank decide to reduce the children's spending habits, the kids blame Brendan for losing an expensive videotape and he decides to run away from home."
+Step by Step,6,2,12,Boys Will Be Boys,1992-12-11,"Frank tries to relive his wild years as a teenager when he gets a surprise visit from his old friend, Scooter Randolph."
+Step by Step,6,2,13,If I Were a Rich Man,1993-01-08,"When Cody inherits $250,000, the Lambert children try to persuade him to invest in their own extravagant fantasies."
+Step by Step,6,2,14,"Happy Birthday, Baby",1993-01-15,"When Carol refuses to allow Dana to have an unchaperoned birthday party at the house, Dana and her friend, Traci, rent a hotel room and secretly host a party of their own."
+Step by Step,6,2,15,One of the Guys,1993-01-22,"Carol suspects that Frank is having an affair with an attractive female carpenter, Aggie."
+Step by Step,6,2,16,No Business Like Show Business,1993-02-05,J.T. and Cody feel like instant celebrities when a television producer agrees to broadcast 'J.T.'s World' over a national network.
+Step by Step,6,2,17,"Love, Port Washington Style",1993-02-12,Frank spends Valentine's Day creating havoc in Carol's beauty shop while J.T. and Cody rent an expensive limousine and Dana meets a new boyfriend.
+Step by Step,6,2,18,Aloha (1),1993-02-19,"The Lamberts spend an exciting week vacationing on an exotic Hawaiian island."
+Step by Step,6,2,19,Aloha (2),1993-02-26,"The Lamberts spend an exciting week vacationing on an exotic Hawaiian island."
+Step by Step,6,2,20,No Way to Treat a Lady,1993-03-12,"When J.T.'s new girlfriend, Gina, insists on being treated with more respect, he forces Mark to teach him how to act like a gentleman."
+Step by Step,6,2,21,The Un-Natural,1993-04-02,Frank worries that his children's baseball team will lose the championship game if he gives Mark a chance to play.
+Step by Step,6,2,22,The Psychic,1993-04-30,"After a gypsy fortune teller, Madam Sonia, predicts that J.T. will be murdered at midnight, J.T. and Cody suspect that Karen is the killer."
+Step by Step,6,2,23,This Old House,1993-05-07,Frank risks losing his entire business in a lawsuit when Carol and Cody defend a poor family who refuse to leave a condemned house that Frank has contracted to demolish.
+Step by Step,6,2,24,Double Date,1993-05-21,Karen selfishly cancels her date with an average-looking boy so she can be seen with a handsome and popular athlete.
+Step by Step,6,3,1,Way-Off Broadway,1993-09-24,"After accepting the role of 'Juliet' in a community theatre play, Dana is horrified to learn that Cody will be portraying 'Romeo.' Frank loses his wedding ring on the golf course after he lies to Carol about playing golf."
+Step by Step,6,3,2,The Apartment,1993-10-01,"When Dana moves into her own apartment, Frank struggles to keep Carol from interfering with her daughter's independence."
+Step by Step,6,3,3,Never on Sunday,1993-10-08,Frank and the Lambert children promise attend a Sunday morning church service to please Carol and the Reverend Fielder but have trouble sacrificing their televised football game to do it.
+Step by Step,6,3,4,The Paper Chase,1993-10-15,"When J.T. steals several book reports from Mark's computer and sells them to some of the school's athletes, Dana gets him in trouble by 'rewriting' them herself."
+Step by Step,6,3,5,Trading Places,1993-10-22,"To settle a family argument, Frank and Carol agree to portray the teenagers for a weekend, while Dana and J.T. portray the parents."
+Step by Step,6,3,6,Video Mania,1993-10-29,"When Frank buys a new home video game system, Mark becomes addicted to playing it. Cody discovers the healing power of transcendental meditation."
+Step by Step,6,3,7,Hog Wild,1993-11-05,"J.T. and Cody open their own motorcycle repair service, while Frank and Carol compete to see which of them can buy the most expensive anniversary gift."
+Step by Step,6,3,8,Down and Out in Port Washington,1993-11-12,Cody moves into the Lambert's living room while his van is being repaired and interferes with the family's privacy.
+Step by Step,6,3,9,The Marrying Dude,1993-11-19,"While Dana and Karen help Al increase the size of her breasts, Cody becomes engaged to a woman with a 6-year-old son."
+Step by Step,6,3,10,Sister Act,1993-11-26,"When Karen accuses Dana of stealing one of her potential boyfriends, she ruins Dana's new romance with a jealous lie."
+Step by Step,6,3,11,Christmas Story,1993-12-10,"On Christmas Eve, Frank and Carol are mistakenly arrested by Deputy Feif for robbing a toy store."
+Step by Step,6,3,12,Close Encounters of the Marital Kind,1993-12-17,"Following the suggestions of a guidebook to marital bliss, Frank and Carol reveal secrets about their pasts that almost ruin their marriage."
+Step by Step,6,3,13,Bad Girls,1994-01-07,Frank and Carol worry when Al makes friends with a gang of punk rock girls and starts to behave like them.
+Step by Step,6,3,14,Read All About It,1994-01-14,"While leading a children's reading class at the library, Cody realizes one boy is terrified to read aloud. When Frank learns he made less money than Carol last year, he gets a humiliating second job."
+Step by Step,6,3,15,Thirteen with a Bullet,1994-01-28,"During his thirteenth birthday party, Mark falls in love with a pretty girl but is soon heartbroken when she rejects his gift of flowers."
+Step by Step,6,3,16,My Bodyguard,1994-02-04,"When Cody predicts that Dana will be attacked by a man dressed in a dark suit, he secretly follows her to an important interview with the Dean of Admissions at a big Chicago college."
+Step by Step,6,3,17,Pretty Woman,1994-02-18,Karen is jealous when Al is chosen to be the new model for a company that makes fashion jeans for women. Cody experiences the return of a 'good-luck curse.'
+Step by Step,6,3,18,Nightmare Weekend,1994-02-25,"Frank takes Carol to a romantic lodge, and belatedly remembers that he took his former girlfriend there. The Lambert and Foster children watch a grisly horror video and take turns scaring each other."
+Step by Step,6,3,19,Birth of a Salesman,1994-03-11,Frank and Carol worry that J.T. will never pursue a college education after earning his first commission as a used car salesman.
+Step by Step,6,3,20,Feeling Forty,1994-03-25,"Carol buys some new diet pills to help her lose weight and look younger. Unfortunately, she becomes addicted to them. Cody meets Abraham Lincoln's ghost."
+Step by Step,6,3,21,The Case of the Missing Diary,1994-04-29,"When Karen accuses one of her siblings of stealing her diary, Cody writes a story about it in the style of a 1940s film-noire detective mystery."
+Step by Step,6,3,22,Great Expectations,1994-05-06,Cody reluctantly becomes a senior vice president in his father's real estate company. Carol unknowingly arranges a date for Dana and Karen with two boys who resemble Beavis and Butt-Head.
+Step by Step,6,3,23,Prom Night,1994-05-20,"After Dana teases J.T. about the 13-year-old girl he was tricked into taking to the senior prom, her own date deserts her."
+Step by Step,6,4,1,Karate Kid,1994-09-23,Cody trains Mark for a karate match and fights a bully. Frank installs an intercom to prevent his family from yelling at home.
+Step by Step,6,4,2,College Bound,1994-09-30,Dana is upset when she must attend a community college with Cody rather than go to Harvard. J.T. gets his first credit card and goes on a spending spree.
+Step by Step,6,4,3,Animal House,1994-10-07,"Karen is harassed by Cody's fraternity brothers. Brendan takes up the trumpet, annoying his family."
+Step by Step,6,4,4,Spoiled Sport,1994-10-14,Carol is offered the sports broadcaster job that Frank wanted. The kids fight over food.
+Step by Step,6,4,5,Revenge of the Nerd,1994-10-21,Karen dates a social outcast in an attempt to be voted homecoming queen at school. Cody gets amnesia when he's struck by lightning.
+Step by Step,6,4,6,Something Wild,1994-10-28,Mark gets in trouble when he gets involved with a wild girl from school. Frank and Carol host a Halloween party. Cody makes the Guinness Book of World Records with the help of a pumpkin.
+Step by Step,6,4,7,Growing Up is Hard to Do,1994-11-04,Carol thinks she may be pregnant. Dana and Cody compete in college with surprising results. Al goes out on her first real date with a boy.
+Step by Step,6,4,8,Beyond Therapy,1994-11-11,"Carol and Frank announce to the family that they're going to have a baby. When everyone gets upset, Carol insists the family see a therapist."
+Step by Step,6,4,9,The Ice Cream Man Cometh,1994-11-18,Cody tries to stop a former friend from committing suicide and ends up falling out of a plane. Frank and Carol talk about adding another room to the house for the new baby.
+Step by Step,6,4,10,Letting Go,1994-11-25,Frank and Carol humiliate Al by spying on her during a date with a new boy. Dana develops an allergic reaction towards Cody.
+Step by Step,6,4,11,Make Room for Daddy,1994-12-09,"Frank gets worried that Carol will give all her love and attention to the new baby. Mark meets a girl he's been communicating with via computer. Karen, Dana and Al have a 'girls' night' together."
+Step by Step,6,4,12,I'll Be Home for Christmas,1994-12-16,"On Christmas, J.T.'s ski trip plans go awry, and crotchety Aunt Edna annoys everybody, until the whole family learns a lesson about relationships."
+Step by Step,6,4,13,Can't Buy Me Love,1995-01-06,J.T. lies about being wealthy to a pretty girl. Carol insists that Frank accompany her to the gynecologist.
+Step by Step,6,4,14,Thirtysomething,1995-01-20,Dana dates an older man and learns a valuable lesson. Carol craves all sorts of strange foods.
+Step by Step,6,4,15,The Honeymoon is Over,1995-02-03,"J.T. advises Mark on how to handle women, with disastrous results. Carol buys Frank an unusual birthday present."
+Step by Step,6,4,16,"One Truck, Al Dente",1995-02-10,Al and J.T. try to hide the dent they put in Frank's truck. Carol and Frank attend an infant care class with disastrous results for Frank.
+Step by Step,6,4,17,Head of the Class,1995-02-17,"Cody and Dana enter their tutoring students in a local television game show. Everyone tries to help Carol with the housework, with mixed results."
+Step by Step,6,4,18,Back to School,1995-03-03,J.T. finds out why he was always a poor student. Carol and Frank apply to a prestigious preschool for their as-yet--unborn child.
+Step by Step,6,4,19,She Came in Through the Bedroom Window,1995-03-17,Carol thinks Frank is having a love affair with a former girlfriend. Cody tries not to say 'dude.'
+Step by Step,6,4,20,Indecent Proposal,1995-03-31,"J.T. has the chance of a lifetime when his sexy college professor is interested in more than his mind. Cody sleepwalks, acting like a 5-year-old."
+Step by Step,6,4,21,"Where Have You Gone, Joe DiMaggio?",1995-04-28,"Brendan finds out his baseball hero is not such a great guy and Harmon Killebrew comes to the rescue. Frank and J.T. learns what it's like to be pregnant, the hard way."
+Step by Step,6,4,22,Adventures in Babysitting,1995-05-05,"Al and J.T. form a babysitting service, but when they try to care for 30 wild children, it's more than they can handle."
+Step by Step,6,4,23,Big Girl on Campus,1995-05-12,Al goes to a college fraternity party and impresses everybody with her maturity. But a devious guy almost ruins her big night.
+Step by Step,6,4,24,A Foster/Lambert Production,1995-05-19,"Carol begins to give birth, prompting the children to reminisce on their times together."
+Step by Step,6,5,1,Little Sister Don'tcha,1995-09-22,"J.T. is excited about his double date with his pal and two girls, until he finds out who his pal's date is."
+Step by Step,6,5,2,Three Girls and a Baby,1995-09-29,The girls care for the new baby while Frank and Carol go on a romantic date. But everyone's evening is filled with surprises.
+Step by Step,6,5,3,Party Animal,1995-10-13,Dana goes wild when she moves into her own place to live. J.T. and Mark think their new neighbor is a criminal.
+Step by Step,6,5,4,Midnight Caller,1995-10-20,Dana and J.T. get overly involved when they answer a call for a telephone counseling service.
+Step by Step,6,5,5,Maid to Order,1995-10-27,J.T. hires a beautiful model to clean the house. Carol exposes her competitive nature when Karen competes to be head cheerleader.
+Step by Step,6,5,6,Don't Ask,1995-11-03,Frank and Carol are overwhelmed by caring for everyone. Karen might get her big chance as a singer. Cody receives a surprise when he orders from a Russian mail-order catalogue.
+Step by Step,6,5,7,"Hello, Mister Chips",1995-11-10,Chaos ensues when Al takes her boss's chimpanzee home. J.T. tries to use Mark's newfound talent to swindle a pool hustler.
+Step by Step,6,5,8,Roadie,1995-11-17,Cody could leave town to tour with a rock star. Frank becomes obsessed with the kids' car.
+Step by Step,6,5,9,The Wall,1995-11-24,"Dana's feminist organization attracts a surprising new member, Cody. Mark is dateless for the school dance."
+Step by Step,6,5,10,Baby Come Back,1995-12-01,J.T. and Al audition Lilly to represent a baby food company. Frank annoys Carol at her beauty products convention.
+Step by Step,6,5,11,The Fight Before Christmas,1995-12-15,J.T.'s co-worker teaches him the true meaning of Christmas. Frank causes a feud with the neighbors.
+Step by Step,6,5,12,What's Wrong with This Picture?,1996-01-05,Dana poses nude for an abstract painting but she's in for a big surprise. Frank becomes obsessed with catching a rat in the attic.
+Step by Step,6,5,13,Beautiful Ladies of Wrestling,1996-01-12,Frank and J.T. are sure they can defeat two female professional wrestlers. Mark wants to go to an advanced school.
+Step by Step,6,5,14,Torn Between Two Mothers,1996-01-26,Frank's mother visits and cause problems with Carol.
+Step by Step,6,5,15,Snow Bunnies,1996-02-02,Al spies on her boyfriend when Frank forbids her from going on a ski weekend with him.
+Step by Step,6,5,16,Secret Admirer,1996-02-09,"Cody tries to make Dana feel less lonely on Valentine's Day by sending her anonymous love letters. Carol is put in jail, and it's Frank's fault."
+Step by Step,6,5,17,Forever Young,1996-02-16,"Frank and Carol try to be youthful and hip like the parents in Lilly's play group, with painful results."
+Step by Step,6,5,18,Guess Who's Coming to Dinner?,1996-02-23,Dana's new boyfriend offends Frank and Carol. J.T. pretends to be Lilly's father to get a date.
+Step by Step,6,5,19,Do the Right Thing,1996-03-08,Frank is suspicious when J.T. gets a good test score in college. Carol reveals a secret about herself.
+Step by Step,6,5,20,The Bodyguard Formerly Known as Prince,1996-03-15,"The girls meet three great guys, one of whom is a crown prince."
+Step by Step,6,5,21,Major Pain,1996-04-26,"Dana, J.T. and Rich go to a career testing center and get some surprising results."
+Step by Step,6,5,22,We're Going to Disney World (1),1996-05-03,The whole family visits Walt Disney World. J.T. and Rich argue over money. The girls enter a singing contest.
+Step by Step,6,5,23,We're Going to Disney World (2),1996-05-10,"While the family is at Walt Disney World, Flash tries to visit every attraction. Karen gets overeager about a singing contest. J.T. and Rich attempt to resolve a disagreement."
+Step by Step,6,5,24,Men at Work,1996-05-17,J.T. and Rich find out what it's like to be sexual objects. Frank converts the basement into a lounge.
+Step by Step,6,6,1,Crazy Love,1997-03-07,"An attractive, older Frenchwoman proposes marriage to J.T. and he accepts. Frank finds Mark and his friends watching pornography."
+Step by Step,6,6,2,Road Trip,1997-03-14,J.T. and Rich get locked up in a Mexican prison.
+Step by Step,6,6,3,"Sex, Lies and Videotape",1997-03-21,"Frank and Carol are not happy when JT starts dating a 29 year-old French woman, but she has an ulterior motive. Mark and his mates hire a porn video but Frank springs them before they have a chance to watch it."
+Step by Step,6,6,4,Just Say Maybe,1997-03-28,Al is tempted to use marijuana when she is at a concert. Carol's married friend flirts with Jean-Luc.
+Step by Step,6,6,5,The 'L' Word,1997-04-04,Dana's loyalty to Rich is tested when an old friend comes on to her. Frank and Jean-Luc get more than they expected on a camping trip.
+Step by Step,6,6,6,She's the One,1997-04-11,Karen gets prepared to appear in a music video. JT finds himself attracted to a tow-truck driver.
+Step by Step,6,6,7,Independence Day,1997-04-18,JT moves out. Carol and the girls have a good time at a karaoke bar.
+Step by Step,6,6,8,Reality Bites,1997-04-25,Frank is forced to evict Rich and JT after they act irresponsibly about the rent. Jean-Luc gives Lilly too much attention.
+Step by Step,6,6,9,Locket Man,1997-05-02,"Franks goes through a mid-life crisis. Dana is not pleased with Rich's gift to her."
+Step by Step,6,6,10,How the West Was Won,1997-05-09,Frank dreams that he is back in the Wild West.
+Step by Step,6,6,11,Absolutely Fabio,1997-05-16,Rich and Dana help at Lilly's birthday party. Jean-Luc cuts Fabio's hair.
+Step by Step,6,6,12,Loose Lips,1997-05-23,Karen gets dumped. Mark learns a lesson after bragging about a date to his friends.
+Step by Step,6,6,13,The Big Date,1997-05-30,Al dates an overweight guy. Dana and Sam must decide whether to have sex with their respective boyfriends.
+Step by Step,6,6,14,Future Shock,1997-06-06,A friend's wedding causes Dana and Rich to wonder what their marriage will be like.
+Step by Step,6,6,15,Show Me the Money,1997-06-13,JT and Rich are put in charge of a promising college hockey player.
+Step by Step,6,6,16,It Didn't Happen One Night,1997-06-20,"After Al refuses to go against her principles, her date begins spreading mean rumors about her. Carol and Dana try to distract Frank and Rich from television sports."
+Step by Step,6,6,17,Macho Man,1997-06-27,"JT has a vision of his future with his current girlfriend, Sam and he begins to fear being married to her."
+Step by Step,6,6,18,Ain't Misbehavin',1997-07-04,Jean-Luc borrows money from Frank and Carol and squanders it instead of repaying them. J.T. refuses to accept that Sam's new roommate is a man.
+Step by Step,6,6,19,The Facts of Life,1997-07-11,Lilly recites the truth according to her parents on the birds and the bees.
+Step by Step,6,6,20,Talking Trash,1997-07-18,Dana and Rich are teamed with other people for a community recycling contest and find themselves in competition with each other.
+Step by Step,6,6,21,Walk Like a Man,1997-07-25,Carol embarrasses Mark. Rich tries to be independent from Dana.
+Step by Step,6,6,22,Shear Madness,1997-08-01,Jean-Luc is too nervous to cut a celebrity's hair. Frank thinks he found the perfect guy for Al.
+Step by Step,6,6,23,The Kissing Game,1997-08-08,"JT tries to help the kids when they seek to get some privacy with their dates. Jean-Luc tries to impress his date, with disastrous results."
+Step by Step,6,6,24,Bonjour Jean-Luc,1997-08-15,Frank is anxious about Carol and Jean-Luc's plan to open a salon together.
+Step by Step,6,7,1,Making the Grade,1997-09-19,Carol decides to go back to school.
+Step by Step,6,7,2,A Star is Born,1997-09-26,Al reveals that she intends to quit school now that she has a part in a movie.
+Step by Step,6,7,3,Your Cheatin' Heart,1997-10-03,Frank and Carol's romantic evening is plagued by unwanted interruptions. Dana suspects that Rich is being unfaithful.
+Step by Step,6,7,4,Take This Job and ...,1997-10-10,Frank is given a boat in exchange for the payment of a debt. JT starts working for his girlfriend.
+Step by Step,6,7,5,Poetic Justice,1997-10-17,Karen believes that she is failing because she refuses to go out with a teaching assistant.
+Step by Step,6,7,6,Can't Buy Me Love,1997-10-24,Dana and Karen consider joining a sorority. A builder sets his sights on Carol.
+Step by Step,6,7,7,Dream Lover,1997-10-31,JT and Sam break up on Halloween.
+Step by Step,6,7,8,Girls Just Wanna Have Fun,1997-11-07,An unscrupulous cousin of Frank's comes to visit. Dana asks JT to teach her how to have fun when she fears that Rich is becoming bored with her.
+Step by Step,6,7,9,"Goodbye, Mr. Chip",1997-12-05,"Carol believes that she is giving good advice, until she sees the end results."
+Step by Step,6,7,10,Too Many Santas,1997-12-19,Lilly becomes disillusioned with Christmas after she recognizes the department Santa as JT.
+Step by Step,6,7,11,Phoney Business,1998-01-09,Al does a suntan lotion commercial.
+Step by Step,6,7,12,Goin' to the Chapel,1998-01-16,Rich and Dana decide to elope after Frank and Carol hastily come to the wrong conclusion about them.
+Step by Step,6,7,13,Feet of Clay,1998-01-23,Carol and Frank try role-playing to liven up their love life. Dana and Rich join a pottery class.
+Step by Step,6,7,14,Pain in the Class,1998-01-30,"Frank is hesitant about attending his high-school reunion."
+Step by Step,6,7,15,The Half Monty,1998-02-27,Rich and JT decide to enter a contest for male-strippers in order to win money for a ski trip.
+Step by Step,6,7,16,And Justice for Some,1998-06-05,J.T. and Frank argue over a truck. Karen and Al compete when a handsome policeman visits.
+Step by Step,6,7,17,The Understudy,1998-06-12,Al gets into trouble when she refuses to learn her part in a local theatre production. Dana wants Lilly to be a genius.
+Step by Step,6,7,18,We're in the Money,1998-06-19,"Frank's nephew, Cody, returns, with a gift that causes trouble for Frank and Carol."
+Step by Step,6,7,19,Movin' on Up,1998-06-26,"Lilly is the only family member who is not excited about moving to a bigger house."
 Baby Talk,7,1,1,Baby Love,1991-03-08,Mickey gets a look at his mom's beau Craig and Craig's infant daughter.
 Baby Talk,7,1,2,Star is Newborn,1991-03-15,"An ad exec (Craig Bierko) with eyes for Maggie (Julia Duffy) offers $25,000 to star Mickey in baby-food commercials."
 Baby Talk,7,1,3,Womb with a View,1991-03-22,Maggie plays midwife to a judge whose unborn child decides to make an early entrance.
@@ -974,7 +974,7 @@ Boy Meets World,13,1,5,Killer Bees,1993-10-22,Cory enters a geography bee for a 
 Boy Meets World,13,1,6,Boys II Mensa,1993-10-29,"Cory cheats on an IQ test and decides to run with it. A Mensa representative comes to test him at home, so he finally comes clean to his parents and Feeny."
 Boy Meets World,13,1,7,Grandma Was a Rolling Stone,1993-11-12,"Feeny's niece comes for a visit and Eric gets Morgan to help in asking her out. Cory and the kids grandma comes for the weekend and she makes a promise to Cory but he is disappointed when she leaves early, and he misses out on the fishing trip with Shawn and his dad."
 Boy Meets World,13,1,8,Teacher's Bet,1993-11-19,"Feeny makes a bet with Cory to teach his class for a week, if more students pass Cory wins, and if more students fail, Feeny wins."
-Boy Meets World,13,1,9,Class Pre-Union,1993-11-26,Mr. Feeny gives an assignment to the class to predict where their life will be by their 20th class reunion.
+Boy Meets World,13,1,9,Class Pre-Union,1993-11-26,"Mr. Feeny gives an assignment to the class to predict where their life will be by their 20th class reunion."
 Boy Meets World,13,1,10,Santa's Little Helper,1993-12-10,"Shawn's dad gets laid off right around Christmas, so Cory vows to get Shawn a present for Christmas this year. Santa Claus has a heart attack when Morgan sits on his lap, traumatizing her."
 Boy Meets World,13,1,11,The Father/Son Game,1993-12-17,"When Cody and Eric find out that Alan has lied about the father/son softball game being cancelled because he knows they don't want to attend, they make amends."
 Boy Meets World,13,1,12,Once in Love with Amy,1994-01-07,Cory accidentally stumbles across a small cache of revealing clothing and comes to believe that his mother is having an extramarital affair.
@@ -1340,7 +1340,7 @@ Sister Sister,15,6,15,Father's Day,1999-02-07,The twins believe they have met th
 Sister Sister,15,6,16,I Know What You Did in Drama Class,1999-02-14,"Diavian and Tyreke become partners in drama class, and Tamera and Jordan try to hook up cable in the girl's room."
 Sister Sister,15,6,17,Double Talk,1999-02-21,"Tamera gets sick and cannot do her radio show one night, so she asks Tia to cover for her but she ends up wimping out. Jordan saves the day but insults the callers on the radio station. Tamera cannot stand this so she goes down to the station and she Jordan have it out. The on-air arguments attract a lot of callers so Tamera and Jordan start to do the show together but cannot agree on one thing. Will Tamera and Jordan make up or will Pillow Chat be history?"
 Sister Sister,15,6,18,FreakNik,1999-02-28,"Tia, Tamera, and Diavian fly to Atlanta to see FreakNik. When they get there and stay at the 4 star hotel, but the hotel is not exactly up to their standards. Tamera, enjoying her new-found freedom, gives herself 5 names, one for each guy she meets because she does not want to be tied down to anyone (except Jordan but not for the time being). Meanwhile Jordan and Tyreke drive to Atlanta and get lost."
-Sister Sister,15,6,19,Before There Was Hip Hop...,1999-05-02,"A music history lesson prompts Old Clarence to talk about a 1940s nightclub where Tia, Tamera, Ray, Lisa and the gang are the people there. The nightclub is going out of business so Ray has to come up with some serious money."
+Sister Sister,15,6,19,Before There Was Hip Hop...,1999-05-02,"A music history lesson prompts Old Clarence to talk about a 1940s nightclub where Tia, Tamera, Ray, Lisa and the gang are the people there. The nightclub is going out of business so Ray has to come up with some serious money. "
 Sister Sister,15,6,20,Let Them Eat Cupcakes,1999-05-09,Victor tries to give Lisa a romantic engagement she will never forget. Tia and Tamera bake a batch of cupcakes that Jordan and Tyreke sell at the college. But one of the cupcakes has Lisa's engagement ring in it.
 Sister Sister,15,6,21,The Road Less Traveled,1999-05-16,"Tia considers taking a summer internship with the WNBA in New York. Meanwhile, Lisa worries about her upcoming wedding."
 Sister Sister,15,6,22,Fly Away Home,1999-05-23,"It's Lisa's wedding day and she is really nervous. So nervous in fact that she runs out of the church and goes to a bar and meets up with her past friend Foxy Jones. Ray later finds her at the bar and talks her into marrying Victor. At the wedding, the twins' old friend Roger Evans returns and sings for Lisa at the wedding."
