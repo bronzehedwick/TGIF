@@ -71,12 +71,10 @@ const MainIndex = (props) => {
   });
 
   return (
-    <div>
-      Welcome to the main index.<br/><br/>
-     
+    <div>   
       <label>Choose Year
         <form id="yearSelect" onSubmit={handleSubmit}>
-          <select defaultValue="none" onChange={handleYearChange}>
+          <select defaultValue="none" onChange={handleYearChange} id="year-select">
             <option value="none">--Select a Year--</option>
             <option value="1" >Fall 1989 - Spring 1990</option>
             <option value="2" >Fall 1990 - Spring 1991</option>
@@ -85,7 +83,7 @@ const MainIndex = (props) => {
             <option value="5" >Fall 1993 - Spring 1994</option>
             <option value="6" >Fall 1994 - Spring 1995</option>
           </select>
-          <button type="submit" className="button primary" value="Submit" form="yearSelect">Go</button>
+          <button type="submit" className="button secondary" value="Submit" form="yearSelect">Go</button>
         </form>
       </label>
       <div id="programs">

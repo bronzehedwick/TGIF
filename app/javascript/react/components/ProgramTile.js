@@ -15,20 +15,29 @@ for(var i=0; i < 4; i++) {
   }
 }
 
+const formatDate = function(input) {
+  const pattern = /(\d{4})\-(\d{2})\-(\d{2})/;
+  if (!input || !input.match(pattern)) {
+    return null;
+  }
+  return input.replace(pattern, '$2/$3/$1');
+};
+
+let formattedDate = formatDate(friday_date)
+
   return (
-    <div>
-      Week number: {week_num}
-      <ul>
-        <li>Friday Date: {friday_date}</li>
-        <li>8:00 - {slot_8pm}</li>
-        <li>{episodes[0].name}</li>
-        <li>8:30 - {slot_830pm}</li>
-        <li>{episodes[1].name}</li>
-        <li>9:00 - {slot_9pm}</li>
-        <li>{episodes[2].name}</li>
-        <li>9:30 - {slot_930pm}</li>
-        <li>{episodes[3].name}</li>
-      </ul>
+    <div className="cell" id="week-tile">
+      <div className="card">
+      <h5>Friday {formattedDate}</h5>
+        <div id="program-block-1" class="time-show">8:00 - {slot_8pm}</div>
+        <div id="program-block-1" class="episode-name">{episodes[0].name}</div>
+        <div id="program-block-2" class="time-show">8:30 - {slot_830pm}</div>
+        <div id="program-block-2" class="episode-name">{episodes[1].name}</div>
+        <div id="program-block-1" class="time-show">9:00 - {slot_9pm}</div>
+        <div id="program-block-1" class="episode-name">{episodes[2].name}</div>
+        <div id="program-block-2" class="time-show">9:30 - {slot_930pm}</div>
+        <div id="program-block-2" class="episode-name">{episodes[3].name}</div>
+      </div>
     </div>
 
   );
