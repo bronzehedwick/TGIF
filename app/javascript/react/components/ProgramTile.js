@@ -15,7 +15,7 @@ for(var i=0; i < 4; i++) {
   episodes[i].formatting = "Rerun"
   }
   else {
-    episodes[i].formatting = `S${episodes[i].season}E${episodes[i].episode_num} - ${episodes[i].name}`
+    episodes[i].formatting = `${episodes[i].name} - S${episodes[i].season}E${episodes[i].episode_num}`
   }
 }
 
