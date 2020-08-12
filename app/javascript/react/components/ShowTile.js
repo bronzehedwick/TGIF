@@ -11,7 +11,7 @@ const ShowTile = ({ description, show_id, name, image_url }) => {
           showProps: { description, name, image_url, show_id }
           }}>
         <div><h5>{name}</h5></div>
-        <div>Image URL: {image_url}</div>
+        <img src={image_url} id="show-tile-image"/>
         </Link>
       </div>
     </div>
