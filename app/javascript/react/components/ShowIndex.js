@@ -41,17 +41,13 @@ const ShowIndex = (props) => {
 
   return (
     <div>
-      <p>Hello from Show Index</p>
-      <div className="main-border-pink">
-        <div className="grid-container">
-          {/* <div className="grid-x grid-margin-x small-up-12 medium-up-4"> */}
-            {showList}
-          {/* </div> */}
+      <div className="grid-container">
+        <div className="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3">
+          {showList}
         </div>
       </div>
     </div>
   )
-
 }
 
 export default ShowIndex;

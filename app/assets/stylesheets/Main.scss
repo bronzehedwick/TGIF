@@ -58,18 +58,21 @@
   color: black;
   font-family: 'Lobster';
   font-weight: bold;
+  font-size: large;
 }
 
 #sign-in {
   color: black;
   font-family: 'Lobster';
   font-weight: bold;
+  font-size: large;
 }
 
 #sign-out {
   color: black;
   font-family: 'Lobster';
   font-weight: bold;
+  font-size: large;
 }
 
 #sign-up:hover {
@@ -140,10 +143,9 @@ label {
 
 #year-select {
   display: block;
-  width: 12em;
+  width: 13em;
   margin-left: auto;
   margin-right: auto;
-  // padding-left:
   text-align: center;
 }
 
@@ -183,11 +185,37 @@ h1 a {
   padding-bottom: 3px;
 }
 
-#week-tile {
-  padding-left: 1em;
-}
-
 #week-tile h5 {
-  padding-left: 3px;
+  padding-left: 5px;
 }
 
+#show-tile h5 {
+  padding-left: 5px;
+  font-weight: bold;
+}
+
+#show-tile {
+  display: block;
+  // width: 13em;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.grid-container {
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-top: 1em;
+}
+
+#card-odd{
+background-color: #9d75ea;
+}
+
+#card-even{
+background-color: #66d7e6;
+}
+
+#show-link {
+  color: black;
+}

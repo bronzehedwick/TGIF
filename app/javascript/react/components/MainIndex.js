@@ -50,6 +50,11 @@ const MainIndex = (props) => {
   };
 
   const selectedWeeks = getProgramData.weeks.map((week) => {
+    let alternatingClass="card-odd"
+    if(week.id%2 == 0) {
+      alternatingClass="card-even"
+    }
+
     let index = week.week_num - 1
     let episodes = []
     if (getProgramData.episodes != null) 
@@ -66,6 +71,7 @@ const MainIndex = (props) => {
       slot_830pm={week.slot_830pm}
       slot_9pm={week.slot_9pm}
       slot_930pm={week.slot_930pm}
+      alternatingClass={alternatingClass}
       />
     );
   });
@@ -86,12 +92,16 @@ const MainIndex = (props) => {
           <button type="submit" className="button secondary" value="Submit" form="yearSelect">Go</button>
         </form>
       </label>
-      <div id="programs">
-        {selectedWeeks}
+          <div className="grid-container">
+            <div className="grid-x grid-margin-x small-up-1 medium-up-2 large-up-3">
+              {selectedWeeks}
+            </div>
+          </div>
       </div>
-    </div>
   )
 }
 
 
 export default MainIndex;
+
+

@@ -5,18 +5,15 @@ const ShowTile = ({ description, show_id, name, image_url }) => {
 
 
   return (
-    <div>
-      I'm a show tile!
-      <ul>
-        <li>Name: {name}</li>
-        <li>Show ID: {show_id}</li>
-        <li>Image URL: {image_url}</li>
-        <li><Link to={{
+    <div className="cell" id="show-tile">
+      <div className="card"><Link to={{
           pathname:`/shows/${show_id}`, 
           showProps: { description, name, image_url, show_id }
           }}>
-            View Show Details</Link></li>
-      </ul>
+        <div><h5>{name}</h5></div>
+        <div>Image URL: {image_url}</div>
+        </Link>
+      </div>
     </div>
   );
 };

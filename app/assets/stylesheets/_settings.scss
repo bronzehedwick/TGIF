@@ -142,7 +142,7 @@ $header-font-family: 'Lobster';
 $header-font-weight: $global-weight-normal;
 $header-font-style: normal;
 $font-family-monospace: "Lobster-Regular";
-$header-color: #32404F;
+$header-color: #000000;
 $header-lineheight: 1.4;
 $header-margin-bottom: 0.5rem;
 $header-styles: (
@@ -370,7 +370,7 @@ $callout-link-tint: 30%;
 // 14. Card
 // --------
 
-$card-background: $primary-color;
+$card-background: $secondary-color;
 $card-font-color: $body-font-color;
 $card-divider-background: $light-gray;
 $card-border: 1px solid $light-gray;
