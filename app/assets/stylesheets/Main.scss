@@ -242,7 +242,7 @@ background-color: #24c4db;
   position: relative;
   margin-left: 10%;
   margin-right: 10%;
-  margin-top: 2vh;
+  margin-top: 3vh;
   margin-bottom: 2vh;
   padding-left: 8%;
   padding-right: 8%;
@@ -251,4 +251,9 @@ background-color: #24c4db;
   border: 20px solid #9d75ea;
   border-radius: 25px;
   overflow: clip;
+}
+
+#tutorial {
+  text-align: center;
+  font-size: 14px;
 }
