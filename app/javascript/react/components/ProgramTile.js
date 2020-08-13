@@ -85,7 +85,6 @@ let formattedDate = formatDate(friday_date)
         /></div>
       </div>
     </div>
-
   );
 };
 

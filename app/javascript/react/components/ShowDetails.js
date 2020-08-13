@@ -80,13 +80,12 @@ const ShowDetails = (props) => {
   
   return (
     <div>
-      <p>Hello from a show detail page</p>
-      <ul>
-        <li>{show_name}</li>
-        <li>Show Image: {image_url}</li>
-        <li>Description: {description}</li>
-      </ul>
-      <p>Seasons:</p>
+      <div id="show-info-box">
+        <img src={image_url} id="show-detail-image"/>
+        <p>Description: {description}</p>
+        
+        <p>Seasons:</p>
+        </div>
       <ul>{seasonList}</ul>
     </div>
   )
