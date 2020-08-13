@@ -103,5 +103,3 @@ const MainIndex = (props) => {
 
 
 export default MainIndex;
-
-

@@ -19,7 +19,7 @@
         <ul class="submenu menu vertical" data-submenu>
           <li ><a class="main-menu-item" href="/">Home</a></li>
           <li ><a class="main-menu-item" href="/shows">Show & Episode Info</a></li>
-          <li ><a class="main-menu-item" href="#0">About</a></li>
+          <li ><a class="main-menu-item" href="/about">About</a></li>
           <%- if current_user -%>
           <li id="sign-out"><%= link_to 'Sign Out', destroy_user_session_path, method: :delete %></li>
           <%- else -%>
