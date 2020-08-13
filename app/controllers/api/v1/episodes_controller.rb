@@ -1,7 +1,8 @@
 class Api::V1::EpisodesController < ApplicationController  
   def index
-    @episodes = Episode.all
-    render json: { episodeData: @episodes }
+    @episodeCount = Episode.count
+    @showCount = Show.count
+    render json: { episode_count: @episodeCount, show_count: @showCount }
   end
 
   def show

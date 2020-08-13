@@ -4,8 +4,6 @@ import EpisodeListItem from "./EpisodeListItem"
 
 const SeasonListItem= ({ number, episodes, selected, handleSeasonClick }) => {
   
-
-
   const sortedEpisodes = episodes.sort(function (a,b,) {
     return a.episode_num - b.episode_num
   })
