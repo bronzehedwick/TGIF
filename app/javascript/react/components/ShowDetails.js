@@ -80,10 +80,12 @@ const ShowDetails = (props) => {
   
   return (
     <div>
-      <img src={image_url} id="show-detail-image"/>
-      <p>Description: {description}</p>
-      
-      <p>Seasons:</p>
+      <div id="show-info-box">
+        <img src={image_url} id="show-detail-image"/>
+        <p>Description: {description}</p>
+        
+        <p>Seasons:</p>
+        </div>
       <ul>{seasonList}</ul>
     </div>
   )

@@ -225,9 +225,15 @@ background-color: #24c4db;
 }
 
 #show-detail-image {
-  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 5%;
 }
 
 #show-tile-image {
-  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-radius: 5%;
+}
+
+#show-info-box {
+  padding: 10px
 }
